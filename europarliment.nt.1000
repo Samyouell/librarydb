@@ -1,0 +1,1000 @@
+<http://sg.ebsco.link/resource/dpda0WMRIJE> <http://bibfra.me/vocab/lite/name> "Développement économique + Histoire" .
+<http://sg.ebsco.link/resource/dpda0WMRIJE> <http://bibfra.me/vocab/lite/label> "Développement économique + Histoire -- 21e siècle" .
+<http://sg.ebsco.link/resource/dpda0WMRIJE> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/dpda0WMRIJE> <http://www.w3.org/2000/01/rdf-schema#label> "Développement économique + Histoire -- 21e siècle" .
+<http://sg.ebsco.link/resource/dpda0WMRIJE> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '650', 'subfields': [{'a': 'Développement économique'}, {'x': 'Histoire'}, {'y': '21e siècle'}], 'ind1': ' ', 'ind2': '6'}" .
+<http://sg.ebsco.link/resource/dpda0WMRIJE> <http://bibfra.me/vocab/marc/generalSubdivision> "Histoire" .
+<http://sg.ebsco.link/resource/dpda0WMRIJE> <http://bibfra.me/vocab/marc/generalSubdivision> "Développement économique" .
+<http://sg.ebsco.link/resource/dpda0WMRIJE> <http://bibfra.me/vocab/marc/chronologicalSubdivision> "21e siècle" .
+<http://sg.ebsco.link/resource/9IzurDmwGRk> <http://bibfra.me/vocab/lite/name> "9789634791997" .
+<http://sg.ebsco.link/resource/9IzurDmwGRk> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/9IzurDmwGRk> <http://www.w3.org/2000/01/rdf-schema#label> "9789634791997" .
+<http://sg.ebsco.link/resource/y86HqSRGLo0> <http://bibfra.me/vocab/lite/label> "Revenue Administration Reform in Middle Eastern Countries, 1994-2004, Jean-Paul Bodin, William Joseph Crandall" .
+<http://sg.ebsco.link/resource/y86HqSRGLo0> <http://bibfra.me/vocab/lite/language> "eng" .
+<http://sg.ebsco.link/resource/y86HqSRGLo0> <http://bibfra.me/vocab/marc/abstract> "The paper provides an overview of revenue administration reforms implemented in Middle Eastern and North African countries over the past decade with IMF assistance. Although reforming tax and customs administration is neither quick nor simple, several countries in the region have embarked on comprehensive programs of reforms to modernize their revenue administration, and encouraging progress has been achieved. Experience shows that there are many challenges to be faced and that critical requirements need to be met, including political commitment, strong leadership, willingness to abandon ineffective practices; and establishment of reform projects with clear mandates, agreed objectives, and realistic timeframes" .
+<http://sg.ebsco.link/resource/y86HqSRGLo0> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/y86HqSRGLo0> <http://bibfra.me/vocab/marc/mainTitle> "Revenue Administration Reform in Middle Eastern Countries, 1994-2004" .
+<http://sg.ebsco.link/resource/y86HqSRGLo0> <http://bibfra.me/vocab/marc/literaryForm> "non fiction" .
+<http://sg.ebsco.link/resource/y86HqSRGLo0> <http://www.w3.org/2000/01/rdf-schema#label> "Revenue Administration Reform in Middle Eastern Countries, 1994-2004, Jean-Paul Bodin, William Joseph Crandall" .
+<http://sg.ebsco.link/resource/y86HqSRGLo0> <http://bibfra.me/vocab/marc/seriesStatement> "IMF Working Papers" .
+<http://sg.ebsco.link/resource/y86HqSRGLo0> <http://bibfra.me/vocab/marc/tableOfContents> "\"\"Contents\"\"; \"\"Introduction\"\"; \"\"I. BACKGROUND ON THE MIDDLE EASTERN REGION Revenue structure and interregional comparisons\"\"; \"\"II. REVENUE ADMINISTRATION REFORM AND POLICY ISSUES Role of revenue administration, and the need for reform\"\"; \"\"III. REFORM EFFORT OVER THE PAST TEN YEARS IN THE MIDDLE EAST Tax administration\"\"; \"\"IV. ASSESSMENT AND EVALUATION\"\"; \"\"V. CONCLUSIONS\"\"; \"\"SELECTED CASE STUDIES\"\"" .
+<http://sg.ebsco.link/resource/y86HqSRGLo0> <http://bibfra.me/vocab/marc/natureOfContents> "dictionaries" .
+<http://sg.ebsco.link/resource/y86HqSRGLo0> <http://bibfra.me/vocab/marc/governmentPublication> "international or intergovernmental publication" .
+<http://sg.ebsco.link/resource/y86HqSRGLo0> <http://bibfra.me/vocab/marc/responsibilityStatement> "Jean-Paul Bodin, William Joseph Crandall" .
+<http://sg.ebsco.link/resource/D8jKRvE70zk> <http://bibfra.me/vocab/lite/label> "Benin :, 2015 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Benin" .
+<http://sg.ebsco.link/resource/D8jKRvE70zk> <http://bibfra.me/vocab/lite/language> "eng" .
+<http://sg.ebsco.link/resource/D8jKRvE70zk> <http://bibfra.me/vocab/marc/abstract> "This 2015 Article IV Consultation highlights that for the third consecutive year, Benin is expected to reach solid economic growth in 2015 at about 5 percent, despite recent headwinds from the economic slowdown in Nigeria—Benin’s major trading partner. In 2016, increased public investment is expected to keep real GDP growth at about 5.2 percent, with inflation to remain subdued. The medium-term outlook is also positive overall, but subject to significant risks, including a further slowdown in Nigeria and delays of structural reforms that could weaken growth dynamics. Low debt levels help accommodate the government’s ambitious plans to further scale-up investment over the medium term" .
+<http://sg.ebsco.link/resource/D8jKRvE70zk> <http://bibfra.me/vocab/marc/subTitle> "2015 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Benin" .
+<http://sg.ebsco.link/resource/D8jKRvE70zk> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/D8jKRvE70zk> <http://bibfra.me/vocab/marc/mainTitle> "Benin :" .
+<http://sg.ebsco.link/resource/D8jKRvE70zk> <http://bibfra.me/vocab/marc/literaryForm> "non fiction" .
+<http://sg.ebsco.link/resource/D8jKRvE70zk> <http://www.w3.org/2000/01/rdf-schema#label> "Benin :, 2015 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Benin" .
+<http://sg.ebsco.link/resource/D8jKRvE70zk> <http://bibfra.me/vocab/marc/seriesStatement> "IMF Staff Country Reports" .
+<http://sg.ebsco.link/resource/D8jKRvE70zk> <http://bibfra.me/vocab/marc/natureOfContents> "dictionaries" .
+<http://sg.ebsco.link/resource/D8jKRvE70zk> <http://bibfra.me/vocab/marc/governmentPublication> "international or intergovernmental publication" .
+<http://sg.ebsco.link/resource/WiU1ZVvFwRo> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001316777304886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/WiU1ZVvFwRo> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001316777304886 ∀ LUX" .
+<http://sg.ebsco.link/resource/WiU1ZVvFwRo> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001316777304886 ∀ LUX" .
+<http://sg.ebsco.link/resource/WiU1ZVvFwRo> <http://library.link/vocab/recordID> "991001316777304886" .
+<http://sg.ebsco.link/resource/WiU1ZVvFwRo> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/WiU1ZVvFwRo> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001316777304886 ∀ LUX" .
+<http://sg.ebsco.link/resource/4EEr7opXReI> <http://bibfra.me/vocab/lite/label> "Address to the Negroes in the State of New York" .
+<http://sg.ebsco.link/resource/4EEr7opXReI> <http://bibfra.me/vocab/lite/language> "eng" .
+<http://sg.ebsco.link/resource/4EEr7opXReI> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/4EEr7opXReI> <http://bibfra.me/vocab/marc/frequency> "unknown" .
+<http://sg.ebsco.link/resource/4EEr7opXReI> <http://bibfra.me/vocab/marc/mainTitle> "Address to the Negroes in the State of New York" .
+<http://sg.ebsco.link/resource/4EEr7opXReI> <http://bibfra.me/vocab/marc/regularity> "unknown" .
+<http://sg.ebsco.link/resource/4EEr7opXReI> <http://bibfra.me/vocab/marc/characteristic> "periodical" .
+<http://sg.ebsco.link/resource/4EEr7opXReI> <http://www.w3.org/2000/01/rdf-schema#label> "Address to the Negroes in the State of New York" .
+<http://sg.ebsco.link/resource/4EEr7opXReI> <http://bibfra.me/vocab/marc/governmentPublication> "unknown if item is government publication" .
+<http://sg.ebsco.link/resource/YCHk2wE-3Y4> <http://bibfra.me/vocab/lite/name> "Erde" .
+<http://sg.ebsco.link/resource/YCHk2wE-3Y4> <http://bibfra.me/vocab/lite/label> "Erde" .
+<http://sg.ebsco.link/resource/YCHk2wE-3Y4> <http://bibfra.me/vocab/marc/source> "gnd" .
+<http://sg.ebsco.link/resource/YCHk2wE-3Y4> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/YCHk2wE-3Y4> <http://www.w3.org/2000/01/rdf-schema#label> "Erde" .
+<http://sg.ebsco.link/resource/YCHk2wE-3Y4> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '651', 'subfields': [{'a': 'Erde'}, {'2': 'gnd'}], 'ind1': ' ', 'ind2': '7'}" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/lite/label> "General theory of light propagation and imaging through the atmosphere, T. Stewart McKechnie" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/index> "index present" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/lite/language> "eng" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/mainTitle> "General theory of light propagation and imaging through the atmosphere" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/literaryForm> "non fiction" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/illustrations> "illustrations" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://www.w3.org/2000/01/rdf-schema#label> "General theory of light propagation and imaging through the atmosphere, T. Stewart McKechnie" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/seriesStatement> "Progress in Optical Science and Photonics, v.20" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/tableOfContents> "Intro -- Preface -- References -- Contents -- In Memoriam -- About the Author -- 1 History of the Telescope and Its Remarkable Contribution to Scientific Discovery (and the 400-Year Journey from Galileo to a Rigorous General Theory of Imaging Through Earth's Turbulent Atmosphere) -- 1.1 Telescope Imaging Through Earth's Turbulent Atmosphere -- 1.2 Kolmogorov Theory (Mid-1960s) -- 1.3 Origins of the New General Theory -- 1.4 Publication of the New General Theory (1989/90) -- 1.5 Definitive Confirmation of Cores in Star Images -- 1.5.1 The UKIRT 3.8-m Instrument and Star Image Cores -- 1.6 Horace Babcock and Adaptive Optics -- 1.7 Pivotal Equation Yielded by the New General Theory -- 1.8 Future Direction of Ground-Based Observational Astronomy -- 1.9 Final Destination! -- References -- 2 Introduction -- 2.1 Principal Cause of Differences Between Kolmogorov Theory and the New General Theory -- 2.1.1 Visible and IR Star Images for Large Turbulence Structure -- 2.1.2 Visible and IR Star Images for Small Turbulence Structure -- 2.2 Significant Features of the New General Theory -- 2.3 Book Content Preview -- 2.4 Kolmogorov Theory -- 2.4.1 Kolmogorov Theory and Its Damage Legacy -- 2.5 The New General Theory -- References -- 3 Terms, Definitions, and Theoretical Foundations -- 3.1 Air Refractive Index -- 3.1.1 Air Temperature and Altitude -- 3.1.2 Air Pressure and Altitude -- 3.1.3 Integrated Optical Path Difference Over the Entire Atmospheric Depth -- 3.1.4 Effect of Humidity -- 3.1.5 Effect of Dispersion -- 3.1.6 Random Variables Associated with Atmospheric Turbulence -- 3.1.7 Astronomical Refraction -- 3.1.8 Atmospheric Extinction -- 3.2 Point-Objects -- 3.3 The Electromagnetic Spectrum -- 3.4 Quasi-Monochromatic Light -- 3.5 Amplitude and Phase of Light Waves Disrupted by Turbulence -- 3.6 The Atmosphere Considered as a Stochastic Process" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/tableOfContents> "3.6.1 Spatial and Temporal Stationarity and the Ensemble Average -- 3.6.2 Standard Error and Standard Deviation -- 3.6.3 Autocovariance and Autocorrelation Functions, the Variance, and Rms -- 3.6.4 The Atmospheric Refractive Index Field -- 3.7 Scalar Diffraction Theory -- 3.7.1 Scalar Diffraction Theory Applied to Atmospheric Propagation -- 3.7.2 Scalar Diffraction Theory Applied to Telescope Imaging -- 3.7.3 Monochromatic Light Fields -- 3.7.4 Analytic Signal -- 3.7.5 Complex Amplitude -- 3.7.6 Intensity -- 3.7.7 Irradiance -- 3.7.8 Polychromatic Light Fields -- 3.8 Coherence Terminology -- 3.9 Free-Space Propagation -- 3.9.1 Maxwell's Electromagnetic Wave Equations -- 3.9.2 Helmholtz Equation -- 3.9.3 Solutions for Infinitely Extensive Plane Waves -- 3.10 Mathematical Notations and Quantity Dimensions -- References -- 4 Diffraction -- 4.1 Diffraction by an Aperture -- 4.1.1 Fresnel Number -- 4.1.2 Fresnel-Kirchoff Diffraction Formula -- 4.1.3 Fresnel Near-Field Diffraction -- 4.1.4 Stationary Phase -- 4.1.5 Fraunhofer Far-Field Diffraction -- 4.2 Optical System Terminology -- 4.2.1 Telescopes, Telescope Objectives, and Eyepieces -- 4.2.2 Aperture Stops, Pupils, Conjugate Distances, Focal Lengths, and F/Numbers -- 4.2.3 Light Rays and Ray Terminology -- 4.2.4 Objects at Finite Distances -- 4.2.5 Objects at Infinite Distances -- 4.2.6 Pupil Functions -- 4.3 The Amplitude Point Spread Function -- 4.3.1 For Diffraction-Limited Telescopes with Circular Apertures -- 4.4 The Intensity Point Spread Function -- 4.4.1 The Airy Pattern -- 4.5 Strehl Intensity -- 4.5.1 Expressed in Terms of Rms Wavefront Error -- 4.5.2 For Circularly Symmetric Images -- 4.6 Rayleigh Resolution Criterion -- 4.7 Images of Extended Objects -- 4.7.1 Superposition Property -- 4.7.2 Nonlinear Optical Phenomena -- 4.7.3 Isoplanaticity -- 4.7.4 Convolution Integrals" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/tableOfContents> "4.7.5 Images of Coherently Illuminated Extended Objects -- 4.7.6 Images of Incoherently Illuminated Extended Objects -- 4.7.7 Images of Partially Coherently Illuminated Extended Objects -- 4.8 Images of Two-Point Objects -- 4.8.1 Incoherently Illuminated Two-Point Objects -- 4.8.2 Coherently Illuminated Two-Point Objects -- 4.9 Stellar Speckle Patterns -- 4.10 Effect of Central Obstruction on Telescope Point Spread Functions -- 4.11 Mathematical Notation Used in This Chapter -- References -- 5 Wave Propagation After Scattering by a Thin Atmospheric Layer -- 5.1 Characterizing Atmospheric Paths and Telescopes by MTFs and OTFs -- 5.2 The Atmospheric Refractive Index -- 5.3 Wave Propagation in the Geometrical Optics Region -- 5.3.1 Optical Path Difference -- 5.3.2 Phase Angle of the Exiting Wave -- 5.3.3 Complex Amplitude of the Exiting Wave -- 5.3.4 The Two-Point Two-Wavelength Correlation Function for Exiting Waves -- 5.3.5 Complex Coherence Factor for Exiting Waves -- 5.3.6 Illustrative Plots of the Complex Coherence Factor -- 5.3.7 Illustrative Plots of the Two-Point Two-Wavelength Correlation Function -- 5.4 Near-Field Propagation of the Complex Amplitude -- 5.5 Near-Field Propagation of the Two-Point Two-Wavelength Correlation Function -- 5.5.1 Cases Where the Function Conserves -- 5.5.2 General Case of Non-Conservation of the Function -- 5.6 Near-Field Propagation of the Complex Coherence Factor -- 5.7 Development of Scintillation After Light Scattering by a Thin Layer -- 5.7.1 Dependence of Scintillation on Turbulence Scale Sizes in the Layer -- 5.7.2 Dependence of Scintillation on the Various Controlling Parameters -- 5.7.3 Effective Fresnel Numbers for Atmospheric Paths -- 5.8 Mathematical Notation Used in This Chapter -- References -- 6 Wave Propagation Over Extended Atmospheric Paths" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/tableOfContents> "6.1 Atmospheric MTF Expressions Developed by Hufnagel and Stanley -- 6.1.1 Hufnagel and Stanley's General Expression for the Atmospheric MTF -- 6.1.2 Hufnagel and Stanley's Kolmogorov-Based Expression for the Atmospheric MTF -- 6.2 Layered Model Representations of Extended Atmospheric Paths -- 6.2.1 Two Equivalent Random Phase Screen Atmospheric Path Models -- 6.2.2 Properties of the Phase Screens in the Uncorrelated Random Phase Screen Path Model -- 6.2.3 Effect of Individual Random Phase Screens on Transmitted Light Waves -- 6.3 General Expression for the Two-Point Two-Wavelength Correlation Function -- 6.3.1 Case of Isotropic Turbulence -- 6.3.2 The Functional Form When ρ( ξ, ) is Gaussian -- 6.4 General Expression for the Atmospheric MTF -- 6.4.1 Case of Isotropic Turbulence -- 6.4.2 Functional Forms When ρ( ξ, ) is Gaussian -- 6.4.3 Comparison of the General Expression to that of Hufnagel and Stanley -- 6.5 Equivalent Phase Screen Representation of an Atmospheric Path -- 6.5.1 Relationship Between ρ(ξ, η) and the Refractive Index Structure Function, DN -- 6.5.2 Location of the Equivalent Phase Screen in the Atmospheric Path -- 6.5.3 Complex Amplitude Properties Arising from an Equivalent Phase Screen -- 6.5.4 Properties of the OPD Fluctuation Created by an Equivalent Phase Screen -- 6.6 General Expressions for M and S that Include Dispersion -- 6.7 Mathematical Notation Used in This Chapter -- References -- 7 Properties of Point-Object Images Formed by Telescopes -- 7.1 Long- and Short-Exposure Images of Point-Objects -- 7.2 Telescope Coordinate Systems -- 7.3 The Complex Amplitude in an Instantaneous Point-Object Image -- 7.4 Telescope OTFs and MTFs -- 7.4.1 Telescope OTF and MTF for Incoherent Illumination -- 7.4.2 Amplitude Transfer Function of a Telescope for Coherent Illumination" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/tableOfContents> "7.5 Two-Point Two-Wavelength Correlation Function of the Complex Amplitudes in the Image -- 7.5.1 Characterizing the Influence of the Telescope Optics -- 7.5.2 Unit-Normalized Form of the Function -- 7.5.3 The Function at a Single Point in the Image -- 7.5.4 The Spectral Correlation Function at the Center of a Point-Object Image -- 7.6 Complex Coherence Factor of the Complex Amplitude in the Image -- 7.7 Average Intensity Envelopes for Point-Object Images -- 7.8 Statistics of the Complex Amplitude in Point-Object Images Formed by Large Telescopes -- 7.8.1 Reed's Theorem for Gaussian-Distributed Complex Random Variables -- 7.8.2 Unit-Normalized Two-Point Two-Wavelength Correlation Function of the Image Intensities -- 7.8.3 Two-Wavelength Correlation Function of the Intensity at a Single Point in the Image -- 7.8.4 Two-Wavelength Correlation Function of the Complex Amplitude at a Single Point in the Image -- 7.9 OTF for an Entire End-To-End Imaging Path -- 7.9.1 OTF for an Entire End-To-End Imaging Path for Space Telescopes -- 7.9.2 OTF and Intensity PSF for a Diffraction-Limited Telescope with Circular Aperture -- 7.10 Mathematical Notation Used in This Chapter -- References -- 8 Atmospheric Path Characterization -- 8.1 Obtaining the Atmospheric MTF from Point-Object Images -- 8.1.1 For Large Diffraction-Limited Telescopes -- 8.1.2 Long- and Short-Exposure Atmospheric MTFs -- 8.1.3 Effective End-to-End OTF for a Telescope Equipped with Adaptive Optics -- 8.1.4 Atmospheric MTF Plots and Corresponding Intensity Envelopes -- 8.2 Measurement of the rms OPD Fluctuation -- 8.2.1 Measurement for the Case  σ/λge0.4 Using Two Narrowband Filters -- 8.2.2 Measurement for the Case σ/λ ≥ 0.4 Using a Broadband Filter -- 8.2.3 Actual Field Measurements of σ -- 8.2.4 Telescope Aberrations Do not Affect the Measured σ Values -- 8.2.5 Convergence of σ as λ2to λ1" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/tableOfContents> "8.2.6 Measurement of σ for the Case  σ/λ&lt" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/bibliographyNote> "Includes bibliographical references and index" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/natureOfContents> "dictionaries" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/natureOfContents> "bibliography" .
+<http://sg.ebsco.link/resource/LXhP9E9OxjY> <http://bibfra.me/vocab/marc/responsibilityStatement> "T. Stewart McKechnie" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://bibfra.me/vocab/lite/label> "North Korea in transition, politics, economy, and society, edited by Kyung-Ae Park and Scott Snyder" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://bibfra.me/vocab/marc/index> "index present" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://bibfra.me/vocab/marc/summary> "Following the death of Kim Jong Il, North Korea has entered a period of profound transformation laden with uncertainty. This authoritative book brings together the world's leading North Korea experts to analyze both the challenges and prospects the country is facing. Drawing on the contributors' expertise across a range of disciplines, the book examines North Korea's political, economic, social, and foreign policy concerns. Considering the implications for Pyongyang's transition, it focuses especially on the transformation of ideology, the Worker's Party of Korea, the military, effects of the Arab Spring, the emerging merchant class, cultural infiltration from the South, Western aid, and global economic integration. The contributors also assess the impact of North Korea's new policies on China, South Korea, the United States, and the rest of the world. Comprehensive and deeply knowledgeable, their analysis is especially crucial given the power consolidation efforts of the new leadership underway in Pyongyang and the implications for both domestic and international politics" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://bibfra.me/vocab/lite/language> "eng" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://bibfra.me/vocab/marc/subTitle> "politics, economy, and society" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://bibfra.me/vocab/marc/mainTitle> "North Korea in transition" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://bibfra.me/vocab/marc/oclcNumber> "794363258" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://bibfra.me/vocab/marc/literaryForm> "non fiction" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://bibfra.me/vocab/marc/illustrations> "illustrations" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://www.w3.org/2000/01/rdf-schema#label> "North Korea in transition, politics, economy, and society, edited by Kyung-Ae Park and Scott Snyder" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://bibfra.me/vocab/marc/tableOfContents> "Part I: North Korea's political system in the transition era. The role and influence of ideology / Charles Armstrong --The role and influence of the party apparatus / Ken Gause --The roles and influence of the military / Terence Roehrig -- The Kims' three bodies : toward understanding dynastic succession in North Korea / Bruce Cumings -- North Korea after Kim Jong Il / Victor Cha and Nicholas Anderson -- Part II: Prospects for the North Korean economy. Western aid : the missing link for North Korea's economic revival? / Nicholas Eberstadt -- Future strategies for economic engagement with North Korea / Bradley Babson -- Part III: North Korean society and culture in transition. Low-profile capitalism : the emergence of the new merchant/entrepreneurial class in post-famine North Korea / Andrei Lankov -- \"Cultural pollution\" from the South? / Woo Young Lee and Jungmin Seo -- Part IV: Foreign relations in the transition era. Changes and continuities in Pyongyang's China policy / Liu Ming -- Changes and continuities in inter-Korean relations / Haksoon Paik -- North Korea's relations with the United States and the rest of the world / David Kang -- Part V. Conclusion -- North Korea in transition : evolution or revolution? / Scott Snyder and Kyung Ae Park" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://bibfra.me/vocab/marc/bibliographyNote> "Includes bibliographical references and index" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://bibfra.me/vocab/marc/natureOfContents> "bibliography" .
+<http://sg.ebsco.link/resource/xPjBcf3BkZQ> <http://bibfra.me/vocab/marc/responsibilityStatement> "edited by Kyung-Ae Park and Scott Snyder" .
+<http://sg.ebsco.link/resource/1s0Hs3IzxTA> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001388231104886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/1s0Hs3IzxTA> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001388231104886 ∀ LUX" .
+<http://sg.ebsco.link/resource/1s0Hs3IzxTA> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001388231104886 ∀ LUX" .
+<http://sg.ebsco.link/resource/1s0Hs3IzxTA> <http://library.link/vocab/recordID> "991001388231104886" .
+<http://sg.ebsco.link/resource/1s0Hs3IzxTA> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/1s0Hs3IzxTA> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001388231104886 ∀ LUX" .
+<http://sg.ebsco.link/resource/jMrDEyZhDz4> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001388505504886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/jMrDEyZhDz4> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001388505504886 ∀ BRU" .
+<http://sg.ebsco.link/resource/jMrDEyZhDz4> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001388505504886 ∀ BRU" .
+<http://sg.ebsco.link/resource/jMrDEyZhDz4> <http://library.link/vocab/recordID> "991001388505504886" .
+<http://sg.ebsco.link/resource/jMrDEyZhDz4> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/jMrDEyZhDz4> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001388505504886 ∀ BRU" .
+<http://sg.ebsco.link/resource/7Sv0knNZLAM> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001315612204886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/7Sv0knNZLAM> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001315612204886 ∀ STR" .
+<http://sg.ebsco.link/resource/7Sv0knNZLAM> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001315612204886 ∀ STR" .
+<http://sg.ebsco.link/resource/7Sv0knNZLAM> <http://library.link/vocab/recordID> "991001315612204886" .
+<http://sg.ebsco.link/resource/7Sv0knNZLAM> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/7Sv0knNZLAM> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001315612204886 ∀ STR" .
+<http://sg.ebsco.link/resource/STtwb4IC9FY> <http://bibfra.me/vocab/lite/label> "Employment and shared growth, rethinking the role of labor mobility for development, edited by Pierella Paci, Pieter Serneels" .
+<http://sg.ebsco.link/resource/STtwb4IC9FY> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/STtwb4IC9FY> <http://bibfra.me/vocab/lite/identifier> "991001120229304886" .
+<http://sg.ebsco.link/resource/STtwb4IC9FY> <http://bibfra.me/vocab/marc/lcItemNumber> ".E47 2007" .
+<http://sg.ebsco.link/resource/STtwb4IC9FY> <http://www.w3.org/2000/01/rdf-schema#label> "Employment and shared growth, rethinking the role of labor mobility for development, edited by Pierella Paci, Pieter Serneels" .
+<http://sg.ebsco.link/resource/STtwb4IC9FY> <http://bibfra.me/vocab/marc/lcClassificationNumber> "HD5852" .
+<http://sg.ebsco.link/resource/_4d7weHiUg0> <http://bibfra.me/vocab/lite/name> "0821-3798" .
+<http://sg.ebsco.link/resource/_4d7weHiUg0> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/_4d7weHiUg0> <http://www.w3.org/2000/01/rdf-schema#label> "0821-3798" .
+<http://sg.ebsco.link/resource/UsxfpuZfLII> <http://bibfra.me/vocab/lite/name> "Fiedler, Sabine" .
+<http://sg.ebsco.link/resource/UsxfpuZfLII> <http://bibfra.me/vocab/lite/label> "Fiedler, Sabine" .
+<http://sg.ebsco.link/resource/UsxfpuZfLII> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/UsxfpuZfLII> <http://www.w3.org/2000/01/rdf-schema#label> "Fiedler, Sabine" .
+<http://sg.ebsco.link/resource/UsxfpuZfLII> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '700', 'subfields': [{'a': 'Fiedler, Sabine'}], 'ind1': '1', 'ind2': ' '}" .
+<http://sg.ebsco.link/resource/8fF2YLvHR_U> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991000515779704886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/8fF2YLvHR_U> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991000515779704886 ∀ LUX" .
+<http://sg.ebsco.link/resource/8fF2YLvHR_U> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991000515779704886 ∀ LUX" .
+<http://sg.ebsco.link/resource/8fF2YLvHR_U> <http://library.link/vocab/recordID> "991000515779704886" .
+<http://sg.ebsco.link/resource/8fF2YLvHR_U> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/8fF2YLvHR_U> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991000515779704886 ∀ LUX" .
+<http://sg.ebsco.link/resource/AjNw7-8tYjk> <http://bibfra.me/vocab/lite/name> "9780191774638" .
+<http://sg.ebsco.link/resource/AjNw7-8tYjk> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/AjNw7-8tYjk> <http://www.w3.org/2000/01/rdf-schema#label> "9780191774638" .
+<http://sg.ebsco.link/resource/uHwSq3He0oM> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Unified Grocers, Inc. SWOT Analysis" .
+<http://sg.ebsco.link/resource/uHwSq3He0oM> <http://bibfra.me/vocab/marc/leader> "-----cas-a22-----z--4500" .
+<http://sg.ebsco.link/resource/uHwSq3He0oM> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/uHwSq3He0oM> <http://bibfra.me/vocab/marc/controlNumber> "991001315021004886" .
+<http://sg.ebsco.link/resource/uHwSq3He0oM> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Unified Grocers, Inc. SWOT Analysis" .
+<http://sg.ebsco.link/resource/uHwSq3He0oM> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "190505uuuuuuuuuuuuuu-p-o----u|----|eng-d" .
+<http://sg.ebsco.link/resource/AJqB4gRyr90> <http://bibfra.me/vocab/lite/label> "Zambia, technical assistant report- government finance statistics mission, International Monetary Fund" .
+<http://sg.ebsco.link/resource/AJqB4gRyr90> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/AJqB4gRyr90> <http://bibfra.me/vocab/lite/identifier> "991001364122904886" .
+<http://sg.ebsco.link/resource/AJqB4gRyr90> <http://bibfra.me/vocab/marc/lcItemNumber> ".Z363 2019" .
+<http://sg.ebsco.link/resource/AJqB4gRyr90> <http://www.w3.org/2000/01/rdf-schema#label> "Zambia, technical assistant report- government finance statistics mission, International Monetary Fund" .
+<http://sg.ebsco.link/resource/AJqB4gRyr90> <http://bibfra.me/vocab/marc/lcClassificationNumber> "HG1353" .
+<http://sg.ebsco.link/resource/_0Fxw6EuoEo> <http://bibfra.me/vocab/lite/name> "9781003110668" .
+<http://sg.ebsco.link/resource/_0Fxw6EuoEo> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/_0Fxw6EuoEo> <http://www.w3.org/2000/01/rdf-schema#label> "9781003110668" .
+<http://sg.ebsco.link/resource/tuaWA_8_mMY> <http://bibfra.me/vocab/lite/label> "Kenya Economic Update, April 2019, No. 19 : Unbundling the Slack in Private Sector Investment – Transforming Agriculture Sector Productivity and Linkages to Poverty Reduction" .
+<http://sg.ebsco.link/resource/tuaWA_8_mMY> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/tuaWA_8_mMY> <http://bibfra.me/vocab/lite/identifier> "991001387693204886" .
+<http://sg.ebsco.link/resource/tuaWA_8_mMY> <http://www.w3.org/2000/01/rdf-schema#label> "Kenya Economic Update, April 2019, No. 19 : Unbundling the Slack in Private Sector Investment – Transforming Agriculture Sector Productivity and Linkages to Poverty Reduction" .
+<http://sg.ebsco.link/resource/9wNZITBn7Uk> <http://bibfra.me/vocab/lite/name> "2-7246-0915-8" .
+<http://sg.ebsco.link/resource/9wNZITBn7Uk> <http://bibfra.me/vocab/marc/isbn> "9782724609158" .
+<http://sg.ebsco.link/resource/9wNZITBn7Uk> <http://bibfra.me/vocab/lite/label> "(2-7246-0915-8)" .
+<http://sg.ebsco.link/resource/9wNZITBn7Uk> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/9wNZITBn7Uk> <http://www.w3.org/2000/01/rdf-schema#label> "(2-7246-0915-8)" .
+<http://sg.ebsco.link/resource/9wNZITBn7Uk> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '776', 'subfields': [{'z': '2-7246-0915-8'}], 'ind1': ' ', 'ind2': ' '}" .
+<http://sg.ebsco.link/resource/PjbiAfsujcA> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001422379804886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/PjbiAfsujcA> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001422379804886 ∀ LUX" .
+<http://sg.ebsco.link/resource/PjbiAfsujcA> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001422379804886 ∀ LUX" .
+<http://sg.ebsco.link/resource/PjbiAfsujcA> <http://library.link/vocab/recordID> "991001422379804886" .
+<http://sg.ebsco.link/resource/PjbiAfsujcA> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/PjbiAfsujcA> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001422379804886 ∀ LUX" .
+<http://sg.ebsco.link/resource/yT7-gjs4F0g> <http://bibfra.me/vocab/lite/label> "Administrative metadata: OECD beschäftigungs-ausblick : juni 2000" .
+<http://sg.ebsco.link/resource/yT7-gjs4F0g> <http://bibfra.me/vocab/marc/leader> "01499cam-a2200445zu-4500" .
+<http://sg.ebsco.link/resource/yT7-gjs4F0g> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/yT7-gjs4F0g> <http://bibfra.me/vocab/marc/changeDate> "20210731015239.0" .
+<http://sg.ebsco.link/resource/yT7-gjs4F0g> <http://bibfra.me/vocab/marc/controlNumber> "991001119153004886" .
+<http://sg.ebsco.link/resource/yT7-gjs4F0g> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: OECD beschäftigungs-ausblick : juni 2000" .
+<http://sg.ebsco.link/resource/yT7-gjs4F0g> <http://bibfra.me/vocab/marc/catalogingAgency> "PQKB" .
+<http://sg.ebsco.link/resource/yT7-gjs4F0g> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "160829s2000    xx      o           ger d" .
+<http://sg.ebsco.link/resource/yT7-gjs4F0g> <http://bibfra.me/vocab/marc/fixedLengthPhysicalDescription> "cr |||||||||||" .
+<http://sg.ebsco.link/resource/yT7-gjs4F0g> <http://bibfra.me/vocab/marc/fixedLengthMaterialCharacteristics> "m     o  u        " .
+<http://sg.ebsco.link/resource/owWEqgWAPJY> <http://bibfra.me/vocab/lite/name> "Elkan, Rachel van" .
+<http://sg.ebsco.link/resource/owWEqgWAPJY> <http://bibfra.me/vocab/lite/label> "Elkan, Rachel van" .
+<http://sg.ebsco.link/resource/owWEqgWAPJY> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/owWEqgWAPJY> <http://www.w3.org/2000/01/rdf-schema#label> "Elkan, Rachel van" .
+<http://sg.ebsco.link/resource/owWEqgWAPJY> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '100', 'subfields': [{'a': 'Elkan, Rachel van'}], 'ind1': '1', 'ind2': ' '}" .
+<http://sg.ebsco.link/resource/vXOw4N4Otlo> <http://bibfra.me/vocab/lite/label> "Administrative metadata: European review of contract law, ERCL" .
+<http://sg.ebsco.link/resource/vXOw4N4Otlo> <http://bibfra.me/vocab/marc/leader> "-----nas--2200541-i-4500" .
+<http://sg.ebsco.link/resource/vXOw4N4Otlo> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/vXOw4N4Otlo> <http://bibfra.me/vocab/marc/changeDate> "20220813213022.0" .
+<http://sg.ebsco.link/resource/vXOw4N4Otlo> <http://bibfra.me/vocab/marc/controlNumber> "991001228559404886" .
+<http://sg.ebsco.link/resource/vXOw4N4Otlo> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: European review of contract law, ERCL" .
+<http://sg.ebsco.link/resource/vXOw4N4Otlo> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "060109c20059999gw-qr---o-----0----0eng-d" .
+<http://sg.ebsco.link/resource/vXOw4N4Otlo> <http://bibfra.me/vocab/marc/fixedLengthPhysicalDescription> "cr-|n|||||||||" .
+<http://sg.ebsco.link/resource/vXOw4N4Otlo> <http://bibfra.me/vocab/marc/fixedLengthMaterialCharacteristics> "m-----o--d--------" .
+<http://sg.ebsco.link/resource/_vafp4hIKQM> <http://bibfra.me/vocab/lite/label> "Jamaica: Statistical Appendix" .
+<http://sg.ebsco.link/resource/_vafp4hIKQM> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/_vafp4hIKQM> <http://bibfra.me/vocab/lite/identifier> "991001344677004886" .
+<http://sg.ebsco.link/resource/_vafp4hIKQM> <http://www.w3.org/2000/01/rdf-schema#label> "Jamaica: Statistical Appendix" .
+<http://sg.ebsco.link/resource/hT_7QiaozLE> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Options for Aged Care in China :, Building an Efficient and Sustainable Aged Care System, Elena Glinskaya" .
+<http://sg.ebsco.link/resource/hT_7QiaozLE> <http://bibfra.me/vocab/marc/leader> "03201cam a22003255i 4500" .
+<http://sg.ebsco.link/resource/hT_7QiaozLE> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/hT_7QiaozLE> <http://bibfra.me/vocab/marc/changeDate> "20181222140646.0" .
+<http://sg.ebsco.link/resource/hT_7QiaozLE> <http://bibfra.me/vocab/marc/controlNumber> "991001136059404886" .
+<http://sg.ebsco.link/resource/hT_7QiaozLE> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Options for Aged Care in China :, Building an Efficient and Sustainable Aged Care System, Elena Glinskaya" .
+<http://sg.ebsco.link/resource/hT_7QiaozLE> <http://bibfra.me/vocab/marc/catalogingAgency> "DJBF" .
+<http://sg.ebsco.link/resource/hT_7QiaozLE> <http://bibfra.me/vocab/marc/transcribingAgency> "DJBF" .
+<http://sg.ebsco.link/resource/hT_7QiaozLE> <http://bibfra.me/vocab/marc/descriptionConventions> "rda" .
+<http://sg.ebsco.link/resource/hT_7QiaozLE> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "020129s2009    dcu     o    i00  0 eng  " .
+<http://sg.ebsco.link/resource/hT_7QiaozLE> <http://bibfra.me/vocab/marc/fixedLengthPhysicalDescription> "cr cn|||||||||" .
+<http://sg.ebsco.link/resource/hT_7QiaozLE> <http://bibfra.me/vocab/marc/fixedLengthMaterialCharacteristics> "m        d        " .
+<http://sg.ebsco.link/resource/uyGehPNXxcg> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001421646604886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/uyGehPNXxcg> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001421646604886 ∀ BRU" .
+<http://sg.ebsco.link/resource/uyGehPNXxcg> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001421646604886 ∀ BRU" .
+<http://sg.ebsco.link/resource/uyGehPNXxcg> <http://library.link/vocab/recordID> "991001421646604886" .
+<http://sg.ebsco.link/resource/uyGehPNXxcg> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/uyGehPNXxcg> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001421646604886 ∀ BRU" .
+<http://sg.ebsco.link/resource/dBep3CFaETk> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001505889204886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/dBep3CFaETk> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001505889204886 ∀ BRU" .
+<http://sg.ebsco.link/resource/dBep3CFaETk> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001505889204886 ∀ BRU" .
+<http://sg.ebsco.link/resource/dBep3CFaETk> <http://library.link/vocab/recordID> "991001505889204886" .
+<http://sg.ebsco.link/resource/dBep3CFaETk> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/dBep3CFaETk> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001505889204886 ∀ BRU" .
+<http://sg.ebsco.link/resource/eFaaELc2VeY> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Journal of Asian Civilisations." .
+<http://sg.ebsco.link/resource/eFaaELc2VeY> <http://bibfra.me/vocab/marc/leader> "-----nas--2200589-a-4500" .
+<http://sg.ebsco.link/resource/eFaaELc2VeY> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/eFaaELc2VeY> <http://bibfra.me/vocab/marc/changeDate> "20220711213022.0" .
+<http://sg.ebsco.link/resource/eFaaELc2VeY> <http://bibfra.me/vocab/marc/controlNumber> "991001115283504886" .
+<http://sg.ebsco.link/resource/eFaaELc2VeY> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Journal of Asian Civilisations." .
+<http://sg.ebsco.link/resource/eFaaELc2VeY> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "990122u1998uuuupk-fr-p-o-----0----0eng--" .
+<http://sg.ebsco.link/resource/L14EGLVk4Ow> <http://bibfra.me/vocab/lite/link> "http://www.worldcat.org/oclc/881183770" .
+<http://sg.ebsco.link/resource/L14EGLVk4Ow> <http://bibfra.me/vocab/lite/name> "881183770" .
+<http://sg.ebsco.link/resource/L14EGLVk4Ow> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/L14EGLVk4Ow> <http://www.w3.org/2000/01/rdf-schema#label> "881183770" .
+<http://sg.ebsco.link/resource/lZGsQYVx2uM> <http://bibfra.me/vocab/lite/name> "IMF working paper" .
+<http://sg.ebsco.link/resource/lZGsQYVx2uM> <http://bibfra.me/vocab/lite/label> "IMF working paper, WP/10/163" .
+<http://sg.ebsco.link/resource/lZGsQYVx2uM> <http://bibfra.me/vocab/marc/volume> "WP/10/163" .
+<http://sg.ebsco.link/resource/lZGsQYVx2uM> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/lZGsQYVx2uM> <http://www.w3.org/2000/01/rdf-schema#label> "IMF working paper, WP/10/163" .
+<http://sg.ebsco.link/resource/lZGsQYVx2uM> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '830', 'subfields': [{'a': 'IMF working paper'}, {'v': 'WP/10/163'}], 'ind1': ' ', 'ind2': '0'}" .
+<http://sg.ebsco.link/resource/mtCnrAkFT3Y> <http://bibfra.me/vocab/lite/label> "Financial supervisory independence and accountability, exploring the determinants, prepared by Donato Masciandaro, Marc Quintyn, and Michael Taylor" .
+<http://sg.ebsco.link/resource/mtCnrAkFT3Y> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/mtCnrAkFT3Y> <http://bibfra.me/vocab/lite/identifier> "991001344718104886" .
+<http://sg.ebsco.link/resource/mtCnrAkFT3Y> <http://bibfra.me/vocab/marc/lcItemNumber> ".M37 2008" .
+<http://sg.ebsco.link/resource/mtCnrAkFT3Y> <http://www.w3.org/2000/01/rdf-schema#label> "Financial supervisory independence and accountability, exploring the determinants, prepared by Donato Masciandaro, Marc Quintyn, and Michael Taylor" .
+<http://sg.ebsco.link/resource/mtCnrAkFT3Y> <http://bibfra.me/vocab/marc/lcClassificationNumber> "HG173" .
+<http://sg.ebsco.link/resource/OJejo1HeLIE> <http://bibfra.me/vocab/lite/name> "0-367-56718-0" .
+<http://sg.ebsco.link/resource/OJejo1HeLIE> <http://bibfra.me/vocab/marc/isbn> "9780367567187" .
+<http://sg.ebsco.link/resource/OJejo1HeLIE> <http://bibfra.me/vocab/lite/label> "(0-367-56718-0)" .
+<http://sg.ebsco.link/resource/OJejo1HeLIE> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/OJejo1HeLIE> <http://www.w3.org/2000/01/rdf-schema#label> "(0-367-56718-0)" .
+<http://sg.ebsco.link/resource/OJejo1HeLIE> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '776', 'subfields': [{'z': '0-367-56718-0'}], 'ind1': ' ', 'ind2': ' '}" .
+<http://sg.ebsco.link/resource/5GWEO7NtBJo> <http://bibfra.me/vocab/lite/label> "Assimilating New Leaders, The Key to Executive Retention, Diane Downey, Tom March and Adena Berkman" .
+<http://sg.ebsco.link/resource/5GWEO7NtBJo> <http://bibfra.me/vocab/marc/medium> "electronic resource" .
+<http://sg.ebsco.link/resource/5GWEO7NtBJo> <http://bibfra.me/vocab/marc/summary> "Organizations spend vast amounts of time, money and energy to recruit and hire top executives. Then those same companies let these new valuable employees sink or swim totally on their own. A new receptionist is likely to receive more attention than a new division manager, as author Diane Downey explains. Despite its jargon-laden title, this enlightening book will change the way you think about hiring or being hired. getAbstract.com recommends this book to any manager who hires, who is being hired for a high-level job or who would like to be" .
+<http://sg.ebsco.link/resource/5GWEO7NtBJo> <http://bibfra.me/vocab/marc/subTitle> "The Key to Executive Retention" .
+<http://sg.ebsco.link/resource/5GWEO7NtBJo> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/5GWEO7NtBJo> <http://bibfra.me/vocab/marc/mainTitle> "Assimilating New Leaders" .
+<http://sg.ebsco.link/resource/5GWEO7NtBJo> <http://bibfra.me/vocab/marc/oclcNumber> "1381045310" .
+<http://sg.ebsco.link/resource/5GWEO7NtBJo> <http://bibfra.me/vocab/marc/oclcNumber> "45888884" .
+<http://sg.ebsco.link/resource/5GWEO7NtBJo> <http://bibfra.me/vocab/marc/literaryForm> "non fiction" .
+<http://sg.ebsco.link/resource/5GWEO7NtBJo> <http://www.w3.org/2000/01/rdf-schema#label> "Assimilating New Leaders, The Key to Executive Retention, Diane Downey, Tom March and Adena Berkman" .
+<http://sg.ebsco.link/resource/5GWEO7NtBJo> <http://bibfra.me/vocab/marc/responsibilityStatement> "Diane Downey, Tom March and Adena Berkman" .
+<http://sg.ebsco.link/resource/r1JfvNTytms> <http://bibfra.me/vocab/lite/label> "Moldova, moving to a market economy." .
+<http://sg.ebsco.link/resource/r1JfvNTytms> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/r1JfvNTytms> <http://bibfra.me/vocab/lite/identifier> "991001119974604886" .
+<http://sg.ebsco.link/resource/r1JfvNTytms> <http://bibfra.me/vocab/marc/lcItemNumber> ".M65 1994" .
+<http://sg.ebsco.link/resource/r1JfvNTytms> <http://www.w3.org/2000/01/rdf-schema#label> "Moldova, moving to a market economy." .
+<http://sg.ebsco.link/resource/r1JfvNTytms> <http://bibfra.me/vocab/marc/lcClassificationNumber> "HC340.18" .
+<http://sg.ebsco.link/resource/KLSV81il6lg> <http://bibfra.me/vocab/lite/note> "5 page summary" .
+<http://sg.ebsco.link/resource/KLSV81il6lg> <http://bibfra.me/vocab/lite/label> "Family Wars, Classic Conflicts in Family Business and How to Deal with Them, Grant Gordon and Nigel Nicholson" .
+<http://sg.ebsco.link/resource/KLSV81il6lg> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/KLSV81il6lg> <http://bibfra.me/vocab/marc/formOfItem> "regular print reproduction" .
+<http://sg.ebsco.link/resource/KLSV81il6lg> <http://www.w3.org/2000/01/rdf-schema#label> "Family Wars, Classic Conflicts in Family Business and How to Deal with Them, Grant Gordon and Nigel Nicholson" .
+<http://sg.ebsco.link/resource/KLSV81il6lg> <http://bibfra.me/vocab/marc/physicalDescription> "digital (5 p.)" .
+<http://sg.ebsco.link/resource/KLSV81il6lg> <http://bibfra.me/vocab/marc/systemControlNumber> "(getAbstract)9815" .
+<http://sg.ebsco.link/resource/KLSV81il6lg> <http://bibfra.me/vocab/marc/systemControlNumber> "(OCoLC)1357010840" .
+<http://sg.ebsco.link/resource/KLSV81il6lg> <http://bibfra.me/vocab/marc/systemControlNumber> "(OCoLC)on1357010840" .
+<http://sg.ebsco.link/resource/oMNI6pEOmRw> <http://bibfra.me/vocab/lite/label> "Administrative metadata: With the support of multitudes : using strategic communication to fight poverty through PRSPs" .
+<http://sg.ebsco.link/resource/oMNI6pEOmRw> <http://bibfra.me/vocab/marc/leader> "01326cam-a2200385zu-4500" .
+<http://sg.ebsco.link/resource/oMNI6pEOmRw> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/oMNI6pEOmRw> <http://bibfra.me/vocab/marc/changeDate> "20210807000012.0" .
+<http://sg.ebsco.link/resource/oMNI6pEOmRw> <http://bibfra.me/vocab/marc/controlNumber> "991001120308804886" .
+<http://sg.ebsco.link/resource/oMNI6pEOmRw> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: With the support of multitudes : using strategic communication to fight poverty through PRSPs" .
+<http://sg.ebsco.link/resource/oMNI6pEOmRw> <http://bibfra.me/vocab/marc/catalogingAgency> "PQKB" .
+<http://sg.ebsco.link/resource/oMNI6pEOmRw> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "160829s2005    xx      o           eng d" .
+<http://sg.ebsco.link/resource/56sUgM3BFjc> <http://bibfra.me/vocab/marc/isbn> "9783050060385" .
+<http://sg.ebsco.link/resource/56sUgM3BFjc> <http://bibfra.me/vocab/lite/label> "John Stuart Mill: Über die Freiheit" .
+<http://sg.ebsco.link/resource/56sUgM3BFjc> <http://library.link/vocab/coverArt> "https://proxy-eu.hosted.exlibrisgroup.com/exl_rewrite/syndetics.com/index.php?client=primo&isbn=9783050060385/lc.jpg" .
+<http://sg.ebsco.link/resource/56sUgM3BFjc> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/56sUgM3BFjc> <http://www.w3.org/2000/01/rdf-schema#label> "John Stuart Mill: Über die Freiheit" .
+<http://sg.ebsco.link/resource/erJ5Aw7oTUs> <http://bibfra.me/vocab/lite/label> "Socioeconomic Impacts of COVID-19 on Households in Cambodia, Report No. 4 : Results from the High-Frequency Phone Survey of Households Round 4 (17 December 2020-12 January 2021)" .
+<http://sg.ebsco.link/resource/erJ5Aw7oTUs> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/erJ5Aw7oTUs> <http://bibfra.me/vocab/marc/formOfItem> "online" .
+<http://sg.ebsco.link/resource/erJ5Aw7oTUs> <http://www.w3.org/2000/01/rdf-schema#label> "Socioeconomic Impacts of COVID-19 on Households in Cambodia, Report No. 4 : Results from the High-Frequency Phone Survey of Households Round 4 (17 December 2020-12 January 2021)" .
+<http://sg.ebsco.link/resource/erJ5Aw7oTUs> <http://bibfra.me/vocab/marc/systemControlNumber> "(CKB)4920000001215077" .
+<http://sg.ebsco.link/resource/erJ5Aw7oTUs> <http://bibfra.me/vocab/marc/systemControlNumber> "(EXLCZ)994920000001215077" .
+<http://sg.ebsco.link/resource/rEu4Z8Zeg-U> <http://bibfra.me/vocab/lite/name> "9781138488199" .
+<http://sg.ebsco.link/resource/rEu4Z8Zeg-U> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/rEu4Z8Zeg-U> <http://www.w3.org/2000/01/rdf-schema#label> "9781138488199" .
+<http://sg.ebsco.link/resource/h4b6_fQbN6U> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001275759204886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/h4b6_fQbN6U> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001275759204886 ∀ BRU" .
+<http://sg.ebsco.link/resource/h4b6_fQbN6U> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001275759204886 ∀ BRU" .
+<http://sg.ebsco.link/resource/h4b6_fQbN6U> <http://library.link/vocab/recordID> "991001275759204886" .
+<http://sg.ebsco.link/resource/h4b6_fQbN6U> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/h4b6_fQbN6U> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001275759204886 ∀ BRU" .
+<http://sg.ebsco.link/resource/RIr4A45KOoI> <http://bibfra.me/vocab/lite/label> "Infrastructure and Finance: Evidence from India's GQ Highway Network" .
+<http://sg.ebsco.link/resource/RIr4A45KOoI> <http://bibfra.me/vocab/lite/language> "eng" .
+<http://sg.ebsco.link/resource/RIr4A45KOoI> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/RIr4A45KOoI> <http://bibfra.me/vocab/marc/mainTitle> "Infrastructure and Finance: Evidence from India's GQ Highway Network" .
+<http://sg.ebsco.link/resource/RIr4A45KOoI> <http://bibfra.me/vocab/marc/variantTitle> "Infrastructure and Finance" .
+<http://sg.ebsco.link/resource/RIr4A45KOoI> <http://www.w3.org/2000/01/rdf-schema#label> "Infrastructure and Finance: Evidence from India's GQ Highway Network" .
+<http://sg.ebsco.link/resource/RIr4A45KOoI> <http://bibfra.me/vocab/marc/governmentPublication> "unknown if item is government publication" .
+<http://sg.ebsco.link/resource/hzLySC4x7hQ> <http://bibfra.me/vocab/lite/link> "http://id.loc.gov/authorities/names/n78008503" .
+<http://sg.ebsco.link/resource/hzLySC4x7hQ> <http://bibfra.me/vocab/lite/name> "n78008503" .
+<http://sg.ebsco.link/resource/hzLySC4x7hQ> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/wikidata" .
+<http://sg.ebsco.link/resource/hzLySC4x7hQ> <http://www.w3.org/2000/01/rdf-schema#label> "n78008503" .
+<http://sg.ebsco.link/resource/NYRvy5aY_vI> <http://bibfra.me/vocab/lite/label> "Mongolia, joint IMF/World Bank debt sustainability analysis under the debt sustainability framework for low-income countries" .
+<http://sg.ebsco.link/resource/NYRvy5aY_vI> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/NYRvy5aY_vI> <http://bibfra.me/vocab/lite/identifier> "991001345474604886" .
+<http://sg.ebsco.link/resource/NYRvy5aY_vI> <http://bibfra.me/vocab/marc/lcItemNumber> ".M66 2010" .
+<http://sg.ebsco.link/resource/NYRvy5aY_vI> <http://www.w3.org/2000/01/rdf-schema#label> "Mongolia, joint IMF/World Bank debt sustainability analysis under the debt sustainability framework for low-income countries" .
+<http://sg.ebsco.link/resource/NYRvy5aY_vI> <http://bibfra.me/vocab/marc/lcClassificationNumber> "HJ8810" .
+<http://sg.ebsco.link/resource/LAN7mjLzZ98> <http://bibfra.me/vocab/lite/label> "De GVR, Roald Dahl ; tekeningen van Quentin Blake ; vertaald door Huberte Vriesendorp" .
+<http://sg.ebsco.link/resource/LAN7mjLzZ98> <http://bibfra.me/vocab/marc/index> "no index present" .
+<http://sg.ebsco.link/resource/LAN7mjLzZ98> <http://bibfra.me/vocab/marc/summary> "Midden in de nacht wordt Sofie door een grote vriendelijke reus meegenomen naar Reuzenland. Samen binden ze de strijd aan met de mensenetende reuzen. Voorlezen vanaf ca. 8 jaar, zelf lezen vanaf ca. 10 jaar" .
+<http://sg.ebsco.link/resource/LAN7mjLzZ98> <http://bibfra.me/vocab/lite/language> "dut" .
+<http://sg.ebsco.link/resource/LAN7mjLzZ98> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/LAN7mjLzZ98> <http://bibfra.me/vocab/marc/mainTitle> "De GVR" .
+<http://sg.ebsco.link/resource/LAN7mjLzZ98> <http://bibfra.me/vocab/marc/oclcNumber> "1243319545" .
+<http://sg.ebsco.link/resource/LAN7mjLzZ98> <http://bibfra.me/vocab/marc/oclcNumber> "1332823889" .
+<http://sg.ebsco.link/resource/LAN7mjLzZ98> <http://bibfra.me/vocab/marc/literaryForm> "fiction" .
+<http://sg.ebsco.link/resource/LAN7mjLzZ98> <http://bibfra.me/vocab/marc/illustrations> "illustrations" .
+<http://sg.ebsco.link/resource/LAN7mjLzZ98> <http://bibfra.me/vocab/marc/targetAudience> "juvenile" .
+<http://sg.ebsco.link/resource/LAN7mjLzZ98> <http://www.w3.org/2000/01/rdf-schema#label> "De GVR, Roald Dahl ; tekeningen van Quentin Blake ; vertaald door Huberte Vriesendorp" .
+<http://sg.ebsco.link/resource/LAN7mjLzZ98> <http://bibfra.me/vocab/marc/responsibilityStatement> "Roald Dahl ; tekeningen van Quentin Blake ; vertaald door Huberte Vriesendorp" .
+<http://sg.ebsco.link/resource/AnJkCtqa4zo> <http://bibfra.me/vocab/lite/name> "Textile fabrics + Technological innovations" .
+<http://sg.ebsco.link/resource/AnJkCtqa4zo> <http://bibfra.me/vocab/lite/label> "Textile fabrics + Technological innovations" .
+<http://sg.ebsco.link/resource/AnJkCtqa4zo> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/AnJkCtqa4zo> <http://www.w3.org/2000/01/rdf-schema#label> "Textile fabrics + Technological innovations" .
+<http://sg.ebsco.link/resource/AnJkCtqa4zo> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '650', 'subfields': [{'a': 'Textile fabrics'}, {'x': 'Technological innovations'}], 'ind1': ' ', 'ind2': '0'}" .
+<http://sg.ebsco.link/resource/AnJkCtqa4zo> <http://bibfra.me/vocab/marc/generalSubdivision> "Technological innovations" .
+<http://sg.ebsco.link/resource/AnJkCtqa4zo> <http://bibfra.me/vocab/marc/generalSubdivision> "Textile fabrics" .
+<http://sg.ebsco.link/resource/G0kKc_sKoVQ> <http://bibfra.me/vocab/lite/name> "Edgewise-Technik" .
+<http://sg.ebsco.link/resource/G0kKc_sKoVQ> <http://bibfra.me/vocab/lite/label> "Edgewise-Technik" .
+<http://sg.ebsco.link/resource/G0kKc_sKoVQ> <http://bibfra.me/vocab/marc/source> "gnd" .
+<http://sg.ebsco.link/resource/G0kKc_sKoVQ> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/G0kKc_sKoVQ> <http://www.w3.org/2000/01/rdf-schema#label> "Edgewise-Technik" .
+<http://sg.ebsco.link/resource/G0kKc_sKoVQ> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '650', 'subfields': [{'a': 'Edgewise-Technik'}, {'2': 'gnd'}], 'ind1': ' ', 'ind2': '7'}" .
+<http://sg.ebsco.link/resource/V8feesa0QHE> <http://bibfra.me/vocab/lite/link> "http://www.worldcat.org/oclc/1409652672" .
+<http://sg.ebsco.link/resource/V8feesa0QHE> <http://bibfra.me/vocab/lite/name> "1409652672" .
+<http://sg.ebsco.link/resource/V8feesa0QHE> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/V8feesa0QHE> <http://www.w3.org/2000/01/rdf-schema#label> "1409652672" .
+<http://sg.ebsco.link/resource/9kpjgdICqrA> <http://bibfra.me/vocab/marc/code> "618.928589061" .
+<http://sg.ebsco.link/resource/9kpjgdICqrA> <http://bibfra.me/vocab/lite/label> "618.928589061" .
+<http://sg.ebsco.link/resource/9kpjgdICqrA> <http://bibfra.me/vocab/marc/source> "ddc" .
+<http://sg.ebsco.link/resource/9kpjgdICqrA> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/9kpjgdICqrA> <http://www.w3.org/2000/01/rdf-schema#label> "618.928589061" .
+<http://sg.ebsco.link/resource/9kpjgdICqrA> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '082', 'subfields': [{'a': '618.928589061'}], 'ind1': '0', 'ind2': ' '}" .
+<http://sg.ebsco.link/resource/aGwqPBKUinE> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001290143604886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/aGwqPBKUinE> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001290143604886 ∀ STR" .
+<http://sg.ebsco.link/resource/aGwqPBKUinE> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001290143604886 ∀ STR" .
+<http://sg.ebsco.link/resource/aGwqPBKUinE> <http://library.link/vocab/recordID> "991001290143604886" .
+<http://sg.ebsco.link/resource/aGwqPBKUinE> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/aGwqPBKUinE> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001290143604886 ∀ STR" .
+<http://sg.ebsco.link/resource/NOU2bnOtNIs> <http://bibfra.me/vocab/lite/name> "Unskilled labor" .
+<http://sg.ebsco.link/resource/NOU2bnOtNIs> <http://bibfra.me/vocab/lite/label> "Unskilled labor -- Belgium" .
+<http://sg.ebsco.link/resource/NOU2bnOtNIs> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/NOU2bnOtNIs> <http://www.w3.org/2000/01/rdf-schema#label> "Unskilled labor -- Belgium" .
+<http://sg.ebsco.link/resource/NOU2bnOtNIs> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '650', 'subfields': [{'a': 'Unskilled labor'}, {'z': 'Belgium'}], 'ind1': ' ', 'ind2': '0'}" .
+<http://sg.ebsco.link/resource/NOU2bnOtNIs> <http://bibfra.me/vocab/marc/geographicSubdivision> "Belgium" .
+<http://sg.ebsco.link/resource/iS7DN_jnjno> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Changing Norms About Gender Inequality In Education : Evidence From Bangladesh" .
+<http://sg.ebsco.link/resource/iS7DN_jnjno> <http://bibfra.me/vocab/marc/leader> "-----cam-a22-----z--4500" .
+<http://sg.ebsco.link/resource/iS7DN_jnjno> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/iS7DN_jnjno> <http://bibfra.me/vocab/marc/controlNumber> "991001388024104886" .
+<http://sg.ebsco.link/resource/iS7DN_jnjno> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Changing Norms About Gender Inequality In Education : Evidence From Bangladesh" .
+<http://sg.ebsco.link/resource/iS7DN_jnjno> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "230719u2007uuuuuuuuu-|-o----u|----|eng-d" .
+<http://sg.ebsco.link/resource/87eeAIo4AxA> <http://bibfra.me/vocab/marc/code> "EC 7120" .
+<http://sg.ebsco.link/resource/87eeAIo4AxA> <http://bibfra.me/vocab/lite/label> "EC 7120" .
+<http://sg.ebsco.link/resource/87eeAIo4AxA> <http://bibfra.me/vocab/marc/source> "rvk" .
+<http://sg.ebsco.link/resource/87eeAIo4AxA> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/87eeAIo4AxA> <http://www.w3.org/2000/01/rdf-schema#label> "EC 7120" .
+<http://sg.ebsco.link/resource/87eeAIo4AxA> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '084', 'subfields': [{'a': 'EC 7120'}, {'2': 'rvk'}], 'ind1': ' ', 'ind2': ' '}" .
+<http://sg.ebsco.link/resource/aEY9eb0AA0w> <http://bibfra.me/vocab/lite/label> "Estratégias Criativas" .
+<http://sg.ebsco.link/resource/aEY9eb0AA0w> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/aEY9eb0AA0w> <http://www.w3.org/2000/01/rdf-schema#label> "Estratégias Criativas" .
+<http://sg.ebsco.link/resource/OSFWOMmxJBE> <http://bibfra.me/vocab/lite/label> "Jesus als Manager, Neue Dimensionen christlicher Ethik, Charles C. Manz" .
+<http://sg.ebsco.link/resource/OSFWOMmxJBE> <http://bibfra.me/vocab/marc/medium> "electronic resource" .
+<http://sg.ebsco.link/resource/OSFWOMmxJBE> <http://bibfra.me/vocab/marc/summary> "Jedem Kapitel dieses Buches ist ein Zitat oder ein Gleichnis von Jesus vorangestellt. Dann zeigt der Autor, wie Ihnen Jesu Lehren in der Menschenführung von heute behilflich sein können. Charles C. Manz verwendet eine Mischung persönlicher und beruflicher Beispiele, um dieses Prinzip herauszuarbeiten. Er tritt dafür ein, dass effektive Führungspersönlichkeiten anderen in ihrem täglichen Verhalten mit Mitgefühl, Bescheidenheit und Anteilnahme begegnen und sich dabei Jesus zum Vorbild nehmen sollten. Er bekräftigt, dass es auf lange Sicht zum Erfolg führt, die richtigen Dinge zu tun und sich moralisch korrekt zu verhalten. Manz predigt und belehrt nicht, sodass das Buch eine breite Palette von Lesern ansprechen könnte. Sie müssen nicht unbedingt religiös oder auch nur Christ sein. Der Text ist gut und pointiert geschrieben und knapp gehalten. getAbstract empfiehlt dieses Buch allen, die sich für eine neue Sichtweise alter Konzepte interessieren. Das Buch enthält neue Ideen (auch wenn sie auf Althergebrachtem basieren) für die Entwicklung eines effektiven Führungsstils, der stärker auf Eigenständigkeit setzt" .
+<http://sg.ebsco.link/resource/OSFWOMmxJBE> <http://bibfra.me/vocab/marc/subTitle> "Neue Dimensionen christlicher Ethik" .
+<http://sg.ebsco.link/resource/OSFWOMmxJBE> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/OSFWOMmxJBE> <http://bibfra.me/vocab/marc/mainTitle> "Jesus als Manager" .
+<http://sg.ebsco.link/resource/OSFWOMmxJBE> <http://bibfra.me/vocab/marc/oclcNumber> "1357007164" .
+<http://sg.ebsco.link/resource/OSFWOMmxJBE> <http://bibfra.me/vocab/marc/literaryForm> "non fiction" .
+<http://sg.ebsco.link/resource/OSFWOMmxJBE> <http://www.w3.org/2000/01/rdf-schema#label> "Jesus als Manager, Neue Dimensionen christlicher Ethik, Charles C. Manz" .
+<http://sg.ebsco.link/resource/OSFWOMmxJBE> <http://bibfra.me/vocab/marc/responsibilityStatement> "Charles C. Manz" .
+<http://sg.ebsco.link/resource/Kr3sp__6yrQ> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001421113504886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/Kr3sp__6yrQ> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001421113504886 ∀ STR" .
+<http://sg.ebsco.link/resource/Kr3sp__6yrQ> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001421113504886 ∀ STR" .
+<http://sg.ebsco.link/resource/Kr3sp__6yrQ> <http://library.link/vocab/recordID> "991001421113504886" .
+<http://sg.ebsco.link/resource/Kr3sp__6yrQ> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/Kr3sp__6yrQ> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001421113504886 ∀ STR" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/lite/note> "Description based upon print version of record" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/marc/isbn> "9781452713519" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/lite/label> "The Gambia, enhanced heavily indebted poor countries initiative- completion point document and multilateral debt relief initiative, International Monetary Fund" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://library.link/vocab/coverArt> "https://proxy-eu.hosted.exlibrisgroup.com/exl_rewrite/syndetics.com/index.php?client=primo&isbn=9780146237768/lc.jpg" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/marc/dimensions> "unknown" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/marc/formOfItem> "online" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://www.w3.org/2000/01/rdf-schema#label> "The Gambia, enhanced heavily indebted poor countries initiative- completion point document and multilateral debt relief initiative, International Monetary Fund" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/marc/physicalDescription> "1 online resource (79 p.)" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/marc/systemControlNumber> "(CKB)3360000000439185" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/marc/systemControlNumber> "(EBL)1605804" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/marc/systemControlNumber> "(SSID)ssj0001476310" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/marc/systemControlNumber> "(PQKBManifestationID)11876303" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/marc/systemControlNumber> "(PQKBTitleCode)TC0001476310" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/marc/systemControlNumber> "(PQKBWorkID)11442337" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/marc/systemControlNumber> "(PQKB)10303283" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/marc/systemControlNumber> "(MiAaPQ)EBC1605804" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/marc/systemControlNumber> "(EXLCZ)993360000000439185" .
+<http://sg.ebsco.link/resource/OJtymbxB4Oo> <http://bibfra.me/vocab/marc/specificMaterialDesignation> "remote" .
+<http://sg.ebsco.link/resource/M6nrpStJRCw> <http://bibfra.me/vocab/lite/label> "Understanding weight control, mind and body strategies for lifelong success, Deborah C. Saltman, MD" .
+<http://sg.ebsco.link/resource/M6nrpStJRCw> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/M6nrpStJRCw> <http://bibfra.me/vocab/lite/identifier> "991001226194104886" .
+<http://sg.ebsco.link/resource/M6nrpStJRCw> <http://bibfra.me/vocab/marc/lcItemNumber> ".S258 2018" .
+<http://sg.ebsco.link/resource/M6nrpStJRCw> <http://www.w3.org/2000/01/rdf-schema#label> "Understanding weight control, mind and body strategies for lifelong success, Deborah C. Saltman, MD" .
+<http://sg.ebsco.link/resource/M6nrpStJRCw> <http://bibfra.me/vocab/marc/lcClassificationNumber> "RM222.2" .
+<http://sg.ebsco.link/resource/GXOarC17DDg> <http://bibfra.me/vocab/lite/link> "https://lccn.loc.gov/2004299317" .
+<http://sg.ebsco.link/resource/GXOarC17DDg> <http://bibfra.me/vocab/lite/name> "2004299317" .
+<http://sg.ebsco.link/resource/GXOarC17DDg> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/GXOarC17DDg> <http://www.w3.org/2000/01/rdf-schema#label> "2004299317" .
+<http://sg.ebsco.link/resource/TzQprgN1ens> <http://bibfra.me/vocab/lite/link> "http://www.worldcat.org/oclc/1232960640" .
+<http://sg.ebsco.link/resource/TzQprgN1ens> <http://bibfra.me/vocab/lite/name> "1232960640" .
+<http://sg.ebsco.link/resource/TzQprgN1ens> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/TzQprgN1ens> <http://www.w3.org/2000/01/rdf-schema#label> "1232960640" .
+<http://sg.ebsco.link/resource/pMbTnlEFvRE> <http://bibfra.me/vocab/lite/name> "2471-9579" .
+<http://sg.ebsco.link/resource/pMbTnlEFvRE> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/pMbTnlEFvRE> <http://www.w3.org/2000/01/rdf-schema#label> "2471-9579" .
+<http://sg.ebsco.link/resource/2UXa5vRI0TQ> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Physical Agents in the Environment and Workplace, Noise and Vibrations, Electromagnetic Fields, and Ionizing Radiation, editors, Giovanni d'Amore, Mauro Magnoni" .
+<http://sg.ebsco.link/resource/2UXa5vRI0TQ> <http://bibfra.me/vocab/marc/leader> "03624cam a2200397Ii 4500" .
+<http://sg.ebsco.link/resource/2UXa5vRI0TQ> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/2UXa5vRI0TQ> <http://bibfra.me/vocab/marc/changeDate> "20220311220952.0" .
+<http://sg.ebsco.link/resource/2UXa5vRI0TQ> <http://bibfra.me/vocab/marc/controlNumber> "991001411223204886" .
+<http://sg.ebsco.link/resource/2UXa5vRI0TQ> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Physical Agents in the Environment and Workplace, Noise and Vibrations, Electromagnetic Fields, and Ionizing Radiation, editors, Giovanni d'Amore, Mauro Magnoni" .
+<http://sg.ebsco.link/resource/2UXa5vRI0TQ> <http://bibfra.me/vocab/marc/catalogingAgency> "FlBoTFG" .
+<http://sg.ebsco.link/resource/2UXa5vRI0TQ> <http://bibfra.me/vocab/marc/transcribingAgency> "FlBoTFG" .
+<http://sg.ebsco.link/resource/2UXa5vRI0TQ> <http://bibfra.me/vocab/marc/descriptionConventions> "rda" .
+<http://sg.ebsco.link/resource/2UXa5vRI0TQ> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "180706s2018    xx a    o     000 0 eng d" .
+<http://sg.ebsco.link/resource/2UXa5vRI0TQ> <http://bibfra.me/vocab/marc/fixedLengthPhysicalDescription> "cr#cnu||||||||" .
+<http://sg.ebsco.link/resource/2UXa5vRI0TQ> <http://bibfra.me/vocab/marc/fixedLengthMaterialCharacteristics> "m     o  d |      " .
+<http://sg.ebsco.link/resource/wIXCMR5w_GE> <http://bibfra.me/vocab/lite/label> "Horizon North Logistics Inc. MarketLine Company Profile" .
+<http://sg.ebsco.link/resource/wIXCMR5w_GE> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/wIXCMR5w_GE> <http://bibfra.me/vocab/marc/formOfItem> "online" .
+<http://sg.ebsco.link/resource/wIXCMR5w_GE> <http://www.w3.org/2000/01/rdf-schema#label> "Horizon North Logistics Inc. MarketLine Company Profile" .
+<http://sg.ebsco.link/resource/wIXCMR5w_GE> <http://bibfra.me/vocab/marc/systemControlNumber> "(CKB)4340000000045496" .
+<http://sg.ebsco.link/resource/wIXCMR5w_GE> <http://bibfra.me/vocab/marc/systemControlNumber> "(EXLCZ)994340000000045496" .
+<http://sg.ebsco.link/resource/nC7gwv3rmow> <http://bibfra.me/vocab/lite/note> "5 page summary" .
+<http://sg.ebsco.link/resource/nC7gwv3rmow> <http://bibfra.me/vocab/lite/label> "Everyday People, Extraordinary Leadership, How to Make a Difference Regardless of Your Title, Role, or Authority, James M. Kouzes and Barry Z. Posner" .
+<http://sg.ebsco.link/resource/nC7gwv3rmow> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/nC7gwv3rmow> <http://bibfra.me/vocab/marc/formOfItem> "regular print reproduction" .
+<http://sg.ebsco.link/resource/nC7gwv3rmow> <http://www.w3.org/2000/01/rdf-schema#label> "Everyday People, Extraordinary Leadership, How to Make a Difference Regardless of Your Title, Role, or Authority, James M. Kouzes and Barry Z. Posner" .
+<http://sg.ebsco.link/resource/nC7gwv3rmow> <http://bibfra.me/vocab/marc/physicalDescription> "digital (5 p.)" .
+<http://sg.ebsco.link/resource/nC7gwv3rmow> <http://bibfra.me/vocab/marc/systemControlNumber> "(getAbstract)41634" .
+<http://sg.ebsco.link/resource/nC7gwv3rmow> <http://bibfra.me/vocab/marc/systemControlNumber> "(OCoLC)1381046958" .
+<http://sg.ebsco.link/resource/nC7gwv3rmow> <http://bibfra.me/vocab/marc/systemControlNumber> "(OCoLC)1242384845" .
+<http://sg.ebsco.link/resource/nC7gwv3rmow> <http://bibfra.me/vocab/marc/systemControlNumber> "(OCoLC)on1242384845" .
+<http://sg.ebsco.link/resource/CsXq9oMU39o> <http://bibfra.me/vocab/lite/link> "http://www.worldcat.org/oclc/1357001169" .
+<http://sg.ebsco.link/resource/CsXq9oMU39o> <http://bibfra.me/vocab/lite/name> "1357001169" .
+<http://sg.ebsco.link/resource/CsXq9oMU39o> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/CsXq9oMU39o> <http://www.w3.org/2000/01/rdf-schema#label> "1357001169" .
+<http://sg.ebsco.link/resource/DPRghndSF6w> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Rigorous reading, 5 access points for comprehending complex texts, Douglas Fisher, Nancy Frey ; foreword by Eugene Pringle, Jr" .
+<http://sg.ebsco.link/resource/DPRghndSF6w> <http://bibfra.me/vocab/marc/leader> "01308nam  2200385 i 4500" .
+<http://sg.ebsco.link/resource/DPRghndSF6w> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/DPRghndSF6w> <http://bibfra.me/vocab/marc/changeDate> "20230629234217.0" .
+<http://sg.ebsco.link/resource/DPRghndSF6w> <http://bibfra.me/vocab/marc/controlNumber> "991001289856404886" .
+<http://sg.ebsco.link/resource/DPRghndSF6w> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Rigorous reading, 5 access points for comprehending complex texts, Douglas Fisher, Nancy Frey ; foreword by Eugene Pringle, Jr" .
+<http://sg.ebsco.link/resource/DPRghndSF6w> <http://bibfra.me/vocab/marc/modifyingAgency> "MiAaPQ" .
+<http://sg.ebsco.link/resource/DPRghndSF6w> <http://bibfra.me/vocab/marc/catalogingAgency> "MiAaPQ" .
+<http://sg.ebsco.link/resource/DPRghndSF6w> <http://bibfra.me/vocab/marc/transcribingAgency> "MiAaPQ" .
+<http://sg.ebsco.link/resource/DPRghndSF6w> <http://bibfra.me/vocab/marc/descriptionConventions> "rda" .
+<http://sg.ebsco.link/resource/DPRghndSF6w> <http://bibfra.me/vocab/marc/descriptionConventions> "pn" .
+<http://sg.ebsco.link/resource/DPRghndSF6w> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "201103s2021    cau     o     000 0 eng d" .
+<http://sg.ebsco.link/resource/DPRghndSF6w> <http://bibfra.me/vocab/marc/fixedLengthPhysicalDescription> "cr cnu||||||||" .
+<http://sg.ebsco.link/resource/DPRghndSF6w> <http://bibfra.me/vocab/marc/fixedLengthMaterialCharacteristics> "m     o  d |      " .
+<http://sg.ebsco.link/resource/_H9ysbRLvU8> <http://bibfra.me/vocab/lite/link> "http://id.worldcat.org/fast/1143807" .
+<http://sg.ebsco.link/resource/_H9ysbRLvU8> <http://bibfra.me/vocab/lite/name> "1143807" .
+<http://sg.ebsco.link/resource/_H9ysbRLvU8> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/_H9ysbRLvU8> <http://www.w3.org/2000/01/rdf-schema#label> "1143807" .
+<http://sg.ebsco.link/resource/uRSiFtkCWxI> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Is There a Positive Incentive Effect from Privatizing Social Security? Evidence from Latin America" .
+<http://sg.ebsco.link/resource/uRSiFtkCWxI> <http://bibfra.me/vocab/marc/leader> "-----cam-a22-----z--4500" .
+<http://sg.ebsco.link/resource/uRSiFtkCWxI> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/uRSiFtkCWxI> <http://bibfra.me/vocab/marc/controlNumber> "991001388334004886" .
+<http://sg.ebsco.link/resource/uRSiFtkCWxI> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Is There a Positive Incentive Effect from Privatizing Social Security? Evidence from Latin America" .
+<http://sg.ebsco.link/resource/uRSiFtkCWxI> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "230719u2001uuuuuuuuu-|-o----u|----|eng-d" .
+<http://sg.ebsco.link/resource/3pc_X4V4FM4> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001387808004886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/3pc_X4V4FM4> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001387808004886 ∀ BRU" .
+<http://sg.ebsco.link/resource/3pc_X4V4FM4> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001387808004886 ∀ BRU" .
+<http://sg.ebsco.link/resource/3pc_X4V4FM4> <http://library.link/vocab/recordID> "991001387808004886" .
+<http://sg.ebsco.link/resource/3pc_X4V4FM4> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/3pc_X4V4FM4> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001387808004886 ∀ BRU" .
+<http://sg.ebsco.link/resource/bk_qpkkVJkc> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Handbuch Biographieforschung, herausgegeben von Helma Lutz, Martina Schiebel, Elisabeth Tuider" .
+<http://sg.ebsco.link/resource/bk_qpkkVJkc> <http://bibfra.me/vocab/marc/leader> "03807nam a22005295i 4500" .
+<http://sg.ebsco.link/resource/bk_qpkkVJkc> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/bk_qpkkVJkc> <http://bibfra.me/vocab/marc/changeDate> "20200712102139.0" .
+<http://sg.ebsco.link/resource/bk_qpkkVJkc> <http://bibfra.me/vocab/marc/controlNumber> "991001116852004886" .
+<http://sg.ebsco.link/resource/bk_qpkkVJkc> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Handbuch Biographieforschung, herausgegeben von Helma Lutz, Martina Schiebel, Elisabeth Tuider" .
+<http://sg.ebsco.link/resource/bk_qpkkVJkc> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "171204s2018    gw |    o    |||| 0|ger d" .
+<http://sg.ebsco.link/resource/bk_qpkkVJkc> <http://bibfra.me/vocab/marc/fixedLengthPhysicalDescription> "cr nn 008mamaa" .
+<http://sg.ebsco.link/resource/bk_qpkkVJkc> <http://bibfra.me/vocab/marc/fixedLengthMaterialCharacteristics> "m     o  d |      " .
+<http://sg.ebsco.link/resource/HV6PEUXKdEY> <http://bibfra.me/vocab/lite/label> "Administrative metadata: A Fórmula do Youtube, Como desvendar o algoritmo para impulsionar as visualizações, construir seu público e aumentar sua renda, Derral Eves" .
+<http://sg.ebsco.link/resource/HV6PEUXKdEY> <http://bibfra.me/vocab/marc/leader> "01020cam  22002177u 4500" .
+<http://sg.ebsco.link/resource/HV6PEUXKdEY> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/HV6PEUXKdEY> <http://bibfra.me/vocab/marc/changeDate> "20230622074424.0" .
+<http://sg.ebsco.link/resource/HV6PEUXKdEY> <http://bibfra.me/vocab/marc/controlNumber> "991001443244304886" .
+<http://sg.ebsco.link/resource/HV6PEUXKdEY> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: A Fórmula do Youtube, Como desvendar o algoritmo para impulsionar as visualizações, construir seu público e aumentar sua renda, Derral Eves" .
+<http://sg.ebsco.link/resource/HV6PEUXKdEY> <http://bibfra.me/vocab/marc/transcribingAgency> "getAbstract" .
+<http://sg.ebsco.link/resource/HV6PEUXKdEY> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "230503s        xx      r     ||| 0|   |d" .
+<http://sg.ebsco.link/resource/XwppqFPtd5o> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001316286104886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/XwppqFPtd5o> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001316286104886 ∀ BRU" .
+<http://sg.ebsco.link/resource/XwppqFPtd5o> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001316286104886 ∀ BRU" .
+<http://sg.ebsco.link/resource/XwppqFPtd5o> <http://library.link/vocab/recordID> "991001316286104886" .
+<http://sg.ebsco.link/resource/XwppqFPtd5o> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/XwppqFPtd5o> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001316286104886 ∀ BRU" .
+<http://sg.ebsco.link/resource/NoP4-7NIvgY> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001316311104886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/NoP4-7NIvgY> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001316311104886 ∀ LUX" .
+<http://sg.ebsco.link/resource/NoP4-7NIvgY> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001316311104886 ∀ LUX" .
+<http://sg.ebsco.link/resource/NoP4-7NIvgY> <http://library.link/vocab/recordID> "991001316311104886" .
+<http://sg.ebsco.link/resource/NoP4-7NIvgY> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/NoP4-7NIvgY> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001316311104886 ∀ LUX" .
+<http://sg.ebsco.link/resource/Zs6y-UBKmSI> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001321378104886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/Zs6y-UBKmSI> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001321378104886 ∀ BRU" .
+<http://sg.ebsco.link/resource/Zs6y-UBKmSI> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001321378104886 ∀ BRU" .
+<http://sg.ebsco.link/resource/Zs6y-UBKmSI> <http://library.link/vocab/recordID> "991001321378104886" .
+<http://sg.ebsco.link/resource/Zs6y-UBKmSI> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/Zs6y-UBKmSI> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001321378104886 ∀ BRU" .
+<http://sg.ebsco.link/resource/af_Kr4Q4TSw> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Encyclopedia of Geomagnetism and Paleomagnetism, edited by David Gubbins, Emilio Herrero-Bervera" .
+<http://sg.ebsco.link/resource/af_Kr4Q4TSw> <http://bibfra.me/vocab/marc/leader> "14858nam a22005775i 4500" .
+<http://sg.ebsco.link/resource/af_Kr4Q4TSw> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/af_Kr4Q4TSw> <http://bibfra.me/vocab/marc/changeDate> "20200629202108.0" .
+<http://sg.ebsco.link/resource/af_Kr4Q4TSw> <http://bibfra.me/vocab/marc/controlNumber> "991001248255604886" .
+<http://sg.ebsco.link/resource/af_Kr4Q4TSw> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Encyclopedia of Geomagnetism and Paleomagnetism, edited by David Gubbins, Emilio Herrero-Bervera" .
+<http://sg.ebsco.link/resource/af_Kr4Q4TSw> <http://bibfra.me/vocab/marc/modifyingAgency> "MiAaPQ" .
+<http://sg.ebsco.link/resource/af_Kr4Q4TSw> <http://bibfra.me/vocab/marc/catalogingAgency> "MiAaPQ" .
+<http://sg.ebsco.link/resource/af_Kr4Q4TSw> <http://bibfra.me/vocab/marc/transcribingAgency> "MiAaPQ" .
+<http://sg.ebsco.link/resource/af_Kr4Q4TSw> <http://bibfra.me/vocab/marc/descriptionConventions> "rda" .
+<http://sg.ebsco.link/resource/af_Kr4Q4TSw> <http://bibfra.me/vocab/marc/descriptionConventions> "pn" .
+<http://sg.ebsco.link/resource/af_Kr4Q4TSw> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "100301s2007    ne |    o    |||| 0|eng d" .
+<http://sg.ebsco.link/resource/af_Kr4Q4TSw> <http://bibfra.me/vocab/marc/fixedLengthPhysicalDescription> "cr#-n---------" .
+<http://sg.ebsco.link/resource/af_Kr4Q4TSw> <http://bibfra.me/vocab/marc/fixedLengthMaterialCharacteristics> "m     o  d |      " .
+<http://sg.ebsco.link/resource/V3ZLpWttCzQ> <http://bibfra.me/vocab/lite/name> "Smalandia (Szwecja ; prowincja historyczna)" .
+<http://sg.ebsco.link/resource/V3ZLpWttCzQ> <http://bibfra.me/vocab/lite/label> "Smalandia (Szwecja ; prowincja historyczna)" .
+<http://sg.ebsco.link/resource/V3ZLpWttCzQ> <http://bibfra.me/vocab/marc/source> "dbn" .
+<http://sg.ebsco.link/resource/V3ZLpWttCzQ> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/V3ZLpWttCzQ> <http://www.w3.org/2000/01/rdf-schema#label> "Smalandia (Szwecja ; prowincja historyczna)" .
+<http://sg.ebsco.link/resource/V3ZLpWttCzQ> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '651', 'subfields': [{'a': 'Smalandia (Szwecja ; prowincja historyczna)'}, {'2': 'dbn'}], 'ind1': ' ', 'ind2': '7'}" .
+<http://sg.ebsco.link/resource/dwEWDfZpPqk> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Revista cubana de angiología y cirugía vascular" .
+<http://sg.ebsco.link/resource/dwEWDfZpPqk> <http://bibfra.me/vocab/marc/leader> "01932nas--2200565-a-4500" .
+<http://sg.ebsco.link/resource/dwEWDfZpPqk> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/dwEWDfZpPqk> <http://bibfra.me/vocab/marc/changeDate> "20221206112733.0" .
+<http://sg.ebsco.link/resource/dwEWDfZpPqk> <http://bibfra.me/vocab/marc/controlNumber> "991001114491904886" .
+<http://sg.ebsco.link/resource/dwEWDfZpPqk> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Revista cubana de angiología y cirugía vascular" .
+<http://sg.ebsco.link/resource/dwEWDfZpPqk> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "040304c20009999cu-ar-pso-----0----0spa-c" .
+<http://sg.ebsco.link/resource/dwEWDfZpPqk> <http://bibfra.me/vocab/marc/fixedLengthPhysicalDescription> "cr-u||||||||||" .
+<http://sg.ebsco.link/resource/dwEWDfZpPqk> <http://bibfra.me/vocab/marc/fixedLengthMaterialCharacteristics> "m-----o--d--------" .
+<http://sg.ebsco.link/resource/Ecjr1o1bJ2c> <http://bibfra.me/vocab/lite/note> "Bibliographic Level Mode of Issuance: Monograph" .
+<http://sg.ebsco.link/resource/Ecjr1o1bJ2c> <http://bibfra.me/vocab/marc/isbn> "9786613780980" .
+<http://sg.ebsco.link/resource/Ecjr1o1bJ2c> <http://bibfra.me/vocab/lite/label> "An Empirical Dependent Economy Model for Pakistan" .
+<http://sg.ebsco.link/resource/Ecjr1o1bJ2c> <http://library.link/vocab/coverArt> "https://proxy-eu.hosted.exlibrisgroup.com/exl_rewrite/syndetics.com/index.php?client=primo&isbn=9781462327744/lc.jpg" .
+<http://sg.ebsco.link/resource/Ecjr1o1bJ2c> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/Ecjr1o1bJ2c> <http://bibfra.me/vocab/marc/formOfItem> "online" .
+<http://sg.ebsco.link/resource/Ecjr1o1bJ2c> <http://www.w3.org/2000/01/rdf-schema#label> "An Empirical Dependent Economy Model for Pakistan" .
+<http://sg.ebsco.link/resource/Ecjr1o1bJ2c> <http://bibfra.me/vocab/marc/systemControlNumber> "(CKB)3360000000441434" .
+<http://sg.ebsco.link/resource/Ecjr1o1bJ2c> <http://bibfra.me/vocab/marc/systemControlNumber> "(SSID)ssj0001475504" .
+<http://sg.ebsco.link/resource/Ecjr1o1bJ2c> <http://bibfra.me/vocab/marc/systemControlNumber> "(PQKBManifestationID)11787774" .
+<http://sg.ebsco.link/resource/Ecjr1o1bJ2c> <http://bibfra.me/vocab/marc/systemControlNumber> "(PQKBTitleCode)TC0001475504" .
+<http://sg.ebsco.link/resource/Ecjr1o1bJ2c> <http://bibfra.me/vocab/marc/systemControlNumber> "(PQKBWorkID)11485746" .
+<http://sg.ebsco.link/resource/Ecjr1o1bJ2c> <http://bibfra.me/vocab/marc/systemControlNumber> "(PQKB)11204349" .
+<http://sg.ebsco.link/resource/Ecjr1o1bJ2c> <http://bibfra.me/vocab/marc/systemControlNumber> "(EXLCZ)993360000000441434" .
+<http://sg.ebsco.link/resource/ziEgBTvGuAk> <http://bibfra.me/vocab/lite/name> "9789353285616" .
+<http://sg.ebsco.link/resource/ziEgBTvGuAk> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/ziEgBTvGuAk> <http://www.w3.org/2000/01/rdf-schema#label> "9789353285616" .
+<http://sg.ebsco.link/resource/2RQciywtH60> <http://bibfra.me/vocab/lite/name> "9781119615248" .
+<http://sg.ebsco.link/resource/2RQciywtH60> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/2RQciywtH60> <http://www.w3.org/2000/01/rdf-schema#label> "9781119615248" .
+<http://sg.ebsco.link/resource/OBfErfxZrGY> <http://bibfra.me/vocab/lite/label> "Administrative metadata: World broadcast engineering" .
+<http://sg.ebsco.link/resource/OBfErfxZrGY> <http://bibfra.me/vocab/marc/leader> "-----nas--2200409-a-4500" .
+<http://sg.ebsco.link/resource/OBfErfxZrGY> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/OBfErfxZrGY> <http://bibfra.me/vocab/marc/changeDate> "20170626063807.6" .
+<http://sg.ebsco.link/resource/OBfErfxZrGY> <http://bibfra.me/vocab/marc/controlNumber> "991001316825404886" .
+<http://sg.ebsco.link/resource/OBfErfxZrGY> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: World broadcast engineering" .
+<http://sg.ebsco.link/resource/OBfErfxZrGY> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "000303d20002001ksumx-p-o-----0---a0eng-c" .
+<http://sg.ebsco.link/resource/xqPOdUrX_cE> <http://bibfra.me/vocab/lite/link> "http://wikidata.org/wiki/Q15439216" .
+<http://sg.ebsco.link/resource/xqPOdUrX_cE> <http://bibfra.me/vocab/lite/name> "Q15439216" .
+<http://sg.ebsco.link/resource/xqPOdUrX_cE> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/wikidata" .
+<http://sg.ebsco.link/resource/xqPOdUrX_cE> <http://www.w3.org/2000/01/rdf-schema#label> "Q15439216" .
+<http://sg.ebsco.link/resource/bQ2z1to6uXg> <http://bibfra.me/vocab/lite/label> "Administrative metadata: California Western law review" .
+<http://sg.ebsco.link/resource/bQ2z1to6uXg> <http://bibfra.me/vocab/marc/leader> "-----nas--2200469-a-4500" .
+<http://sg.ebsco.link/resource/bQ2z1to6uXg> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/bQ2z1to6uXg> <http://bibfra.me/vocab/marc/changeDate> "20230307213020.0" .
+<http://sg.ebsco.link/resource/bQ2z1to6uXg> <http://bibfra.me/vocab/marc/controlNumber> "991001115608004886" .
+<http://sg.ebsco.link/resource/bQ2z1to6uXg> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: California Western law review" .
+<http://sg.ebsco.link/resource/bQ2z1to6uXg> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "011022c19659999caufx-psogv---0----0eng-c" .
+<http://sg.ebsco.link/resource/bQ2z1to6uXg> <http://bibfra.me/vocab/marc/fixedLengthPhysicalDescription> "cr-mnu||||||||" .
+<http://sg.ebsco.link/resource/bQ2z1to6uXg> <http://bibfra.me/vocab/marc/fixedLengthMaterialCharacteristics> "m-----o--d--------" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/lite/label> "Consumer confusion, the choice of AFORE in Mexico, Roberto Calderón-Colín, Enrique E. Domínguez, and Moisés J. Schwartz ; authorized for distribution by Ceyla Pazarbasioglu" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/index> "no index present" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/summary> "This paper was prepared for the World Bank 4th Annual Contractual Savings Conference (Washington DC, April 2008) co-organized by Gregorio Impavido (gimpavido@imf.org). The article shows that account transfers among pension administrators in Mexico barely respond to price or return considerations and in general has not improved the consumer's pension balance. Instead of strengthening competition through lower fees and higher returns for the consumer, AFORE switching has so far undermined the system and resulted in the destruction of value. Moreover, \"\"noisy\"\" evaluations of the product by the" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/lite/language> "eng" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/subTitle> "the choice of AFORE in Mexico" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/mainTitle> "Consumer confusion" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/oclcNumber> "762093397" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/literaryForm> "non fiction" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/illustrations> "illustrations" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://www.w3.org/2000/01/rdf-schema#label> "Consumer confusion, the choice of AFORE in Mexico, Roberto Calderón-Colín, Enrique E. Domínguez, and Moisés J. Schwartz ; authorized for distribution by Ceyla Pazarbasioglu" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/seriesStatement> "IMF Working Papers" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/tableOfContents> "Contents; I. Introduction; II. The Choice of AFORE in Mexico; A. Inelasticity of Demand and Switching among Fund Managers; Figures; 1. Switches; 2. Turnover Ratio for Mexico and Chile; Tables; 1. Regression Analysis 1; 2. Regression Analysis 2; 3. Switches In 2006; 4. Gain or Loss after Switching Workers' Estimated Balance at the Age of Retirement; 5. Gain or Loss after Switching Workers' Estimated Balance after a Five-Year Period; 6. Loss from not Switching to the to the \"Optimal\" AFORE Workers' Estimated Balance at the Age of Retirement" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/tableOfContents> "7. Loss from not Switching to the \"Optimal\" AFORE Workers' Estimated Balance after a Five-Year Period B. The Effectiveness of an Increase in Supply; 3. Gain/Loss in Balances for Hypothetical Cases of Workers that began accruing; 4. Winners and Losers Due to Decreases in Fees; 5. Changes in Balances Due to Decreases in Fees; III. Consumer's \"Confusion\" and \"Noise\"; A. Theoretical Framework; B. Statistical Analysis of Possible \"Noise\" Distributions" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/tableOfContents> "8. \"Noise Distribution\" Percentage Loss in Pension Balances at Retirement Age Due to \"Sub-Optimal\" Choice of AFORE Fitted by the Normal and Weibull Distributions.9. \"Noise Distribution\" Percentage Loss in Pension Balances After A Five-year Period Due to \"Sub-Optimal\" Choice of AFORE Fitted By The Normal and Weibull Distributions; C. Mark-up Estimation in the AFORE Industry; 6. Mark-up According to the Number of AFOREs; IV. Empirical Study; A. Measurement of \"Noise\" and Consumer \"Confusion\"; B. Econometric Framework to Measure \"Confusion's \" Relative Importance; C. Empirical Results" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/tableOfContents> "V. Concluding Remarks Annexes; I. The Model; II. Questionnaires; References" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/bibliographyNote> "Includes bibliographical references" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/natureOfContents> "bibliography" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/natureOfContents> "dictionaries" .
+<http://sg.ebsco.link/resource/uOTMwhsq8TA> <http://bibfra.me/vocab/marc/responsibilityStatement> "Roberto Calderón-Colín, Enrique E. Domínguez, and Moisés J. Schwartz ; authorized for distribution by Ceyla Pazarbasioglu" .
+<http://sg.ebsco.link/resource/-autfBnGnWk> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001388350204886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/-autfBnGnWk> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001388350204886 ∀ BRU" .
+<http://sg.ebsco.link/resource/-autfBnGnWk> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001388350204886 ∀ BRU" .
+<http://sg.ebsco.link/resource/-autfBnGnWk> <http://library.link/vocab/recordID> "991001388350204886" .
+<http://sg.ebsco.link/resource/-autfBnGnWk> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/-autfBnGnWk> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001388350204886 ∀ BRU" .
+<http://sg.ebsco.link/resource/_Gw_9IRYXmI> <http://bibfra.me/vocab/lite/label> "On \"\"Good\"\" Politicians and \"\"Bad\"\" Policies : Social Cohesion, Institutions, and Growth" .
+<http://sg.ebsco.link/resource/_Gw_9IRYXmI> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/_Gw_9IRYXmI> <http://bibfra.me/vocab/lite/identifier> "991001388421504886" .
+<http://sg.ebsco.link/resource/_Gw_9IRYXmI> <http://www.w3.org/2000/01/rdf-schema#label> "On \"\"Good\"\" Politicians and \"\"Bad\"\" Policies : Social Cohesion, Institutions, and Growth" .
+<http://sg.ebsco.link/resource/zRh0TFpyUNw> <http://bibfra.me/vocab/lite/label> "Emil und die Detektive" .
+<http://sg.ebsco.link/resource/zRh0TFpyUNw> <http://bibfra.me/vocab/lite/language> "French" .
+<http://sg.ebsco.link/resource/zRh0TFpyUNw> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/zRh0TFpyUNw> <http://www.w3.org/2000/01/rdf-schema#label> "Emil und die Detektive" .
+<http://sg.ebsco.link/resource/zRh0TFpyUNw> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '240', 'subfields': [{'a': 'Emil und die Detektive'}, {'l': 'French'}], 'ind1': '1', 'ind2': '0'}" .
+<http://sg.ebsco.link/resource/g8JpQPDPaOQ> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001316133004886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/g8JpQPDPaOQ> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001316133004886 ∀ BRU" .
+<http://sg.ebsco.link/resource/g8JpQPDPaOQ> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001316133004886 ∀ BRU" .
+<http://sg.ebsco.link/resource/g8JpQPDPaOQ> <http://library.link/vocab/recordID> "991001316133004886" .
+<http://sg.ebsco.link/resource/g8JpQPDPaOQ> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/g8JpQPDPaOQ> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001316133004886 ∀ BRU" .
+<http://sg.ebsco.link/resource/R4B6HCa9RcI> <http://bibfra.me/vocab/lite/label> "Impact of COVID-19 on Foreign Investors : Early Evidence from a Global Pulse Survey" .
+<http://sg.ebsco.link/resource/R4B6HCa9RcI> <http://bibfra.me/vocab/lite/language> "eng" .
+<http://sg.ebsco.link/resource/R4B6HCa9RcI> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/R4B6HCa9RcI> <http://bibfra.me/vocab/marc/mainTitle> "Impact of COVID-19 on Foreign Investors : Early Evidence from a Global Pulse Survey" .
+<http://sg.ebsco.link/resource/R4B6HCa9RcI> <http://bibfra.me/vocab/marc/variantTitle> "Impact of COVID-19 on Foreign Investors" .
+<http://sg.ebsco.link/resource/R4B6HCa9RcI> <http://www.w3.org/2000/01/rdf-schema#label> "Impact of COVID-19 on Foreign Investors : Early Evidence from a Global Pulse Survey" .
+<http://sg.ebsco.link/resource/R4B6HCa9RcI> <http://bibfra.me/vocab/marc/governmentPublication> "unknown if item is government publication" .
+<http://sg.ebsco.link/resource/MXOyUtFTW2o> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001422492604886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/MXOyUtFTW2o> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001422492604886 ∀ LUX" .
+<http://sg.ebsco.link/resource/MXOyUtFTW2o> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001422492604886 ∀ LUX" .
+<http://sg.ebsco.link/resource/MXOyUtFTW2o> <http://library.link/vocab/recordID> "991001422492604886" .
+<http://sg.ebsco.link/resource/MXOyUtFTW2o> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/MXOyUtFTW2o> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001422492604886 ∀ LUX" .
+<http://sg.ebsco.link/resource/muUaqMbirXM> <http://bibfra.me/vocab/lite/link> "http://www.worldcat.org/oclc/796192093" .
+<http://sg.ebsco.link/resource/muUaqMbirXM> <http://bibfra.me/vocab/lite/name> "796192093" .
+<http://sg.ebsco.link/resource/muUaqMbirXM> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/muUaqMbirXM> <http://www.w3.org/2000/01/rdf-schema#label> "796192093" .
+<http://sg.ebsco.link/resource/ITncpxf_eKY> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Wireless Data Services, Technologies, Business Models and Global Markets, Chetan Sharma and Yasuhisa Nakamura" .
+<http://sg.ebsco.link/resource/ITncpxf_eKY> <http://bibfra.me/vocab/marc/leader> "01649cam  22002297u 4500" .
+<http://sg.ebsco.link/resource/ITncpxf_eKY> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/ITncpxf_eKY> <http://bibfra.me/vocab/marc/changeDate> "20230622002701.0" .
+<http://sg.ebsco.link/resource/ITncpxf_eKY> <http://bibfra.me/vocab/marc/controlNumber> "991001422382604886" .
+<http://sg.ebsco.link/resource/ITncpxf_eKY> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Wireless Data Services, Technologies, Business Models and Global Markets, Chetan Sharma and Yasuhisa Nakamura" .
+<http://sg.ebsco.link/resource/ITncpxf_eKY> <http://bibfra.me/vocab/marc/transcribingAgency> "getAbstract" .
+<http://sg.ebsco.link/resource/ITncpxf_eKY> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "230106s        xx      r     ||| 0|   |d" .
+<http://sg.ebsco.link/resource/kJhswP4ZcNA> <http://bibfra.me/vocab/lite/name> "9789264016866" .
+<http://sg.ebsco.link/resource/kJhswP4ZcNA> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/kJhswP4ZcNA> <http://www.w3.org/2000/01/rdf-schema#label> "9789264016866" .
+<http://sg.ebsco.link/resource/MXMFO_sVsnM> <http://bibfra.me/vocab/lite/label> "Business Journal Pub. Co." .
+<http://sg.ebsco.link/resource/MXMFO_sVsnM> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/MXMFO_sVsnM> <http://www.w3.org/2000/01/rdf-schema#label> "Business Journal Pub. Co." .
+<http://sg.ebsco.link/resource/qpfjjVEoM9k> <http://bibfra.me/vocab/lite/label> "Firstec Co., Ltd. MarketLine Company Profile" .
+<http://sg.ebsco.link/resource/qpfjjVEoM9k> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/qpfjjVEoM9k> <http://bibfra.me/vocab/lite/identifier> "991001316058704886" .
+<http://sg.ebsco.link/resource/qpfjjVEoM9k> <http://www.w3.org/2000/01/rdf-schema#label> "Firstec Co., Ltd. MarketLine Company Profile" .
+<http://sg.ebsco.link/resource/Jzynlwuf6b4> <http://bibfra.me/vocab/lite/note> "5 page summary" .
+<http://sg.ebsco.link/resource/Jzynlwuf6b4> <http://bibfra.me/vocab/lite/label> "Novacene, The Coming Age of Hyperintelligence, James Lovelock" .
+<http://sg.ebsco.link/resource/Jzynlwuf6b4> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/Jzynlwuf6b4> <http://bibfra.me/vocab/marc/formOfItem> "regular print reproduction" .
+<http://sg.ebsco.link/resource/Jzynlwuf6b4> <http://www.w3.org/2000/01/rdf-schema#label> "Novacene, The Coming Age of Hyperintelligence, James Lovelock" .
+<http://sg.ebsco.link/resource/Jzynlwuf6b4> <http://bibfra.me/vocab/marc/physicalDescription> "digital (5 p.)" .
+<http://sg.ebsco.link/resource/Jzynlwuf6b4> <http://bibfra.me/vocab/marc/systemControlNumber> "(getAbstract)40192" .
+<http://sg.ebsco.link/resource/Jzynlwuf6b4> <http://bibfra.me/vocab/marc/systemControlNumber> "(OCoLC)1381040256" .
+<http://sg.ebsco.link/resource/Jzynlwuf6b4> <http://bibfra.me/vocab/marc/systemControlNumber> "(OCoLC)1104066697" .
+<http://sg.ebsco.link/resource/Jzynlwuf6b4> <http://bibfra.me/vocab/marc/systemControlNumber> "(OCoLC)on1104066697" .
+<http://sg.ebsco.link/resource/xDORZL8Ror0> <http://bibfra.me/vocab/lite/label> "Euroclear Holding SA/NV MarketLine Company Profile" .
+<http://sg.ebsco.link/resource/xDORZL8Ror0> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/xDORZL8Ror0> <http://bibfra.me/vocab/lite/identifier> "991001447511704886" .
+<http://sg.ebsco.link/resource/xDORZL8Ror0> <http://www.w3.org/2000/01/rdf-schema#label> "Euroclear Holding SA/NV MarketLine Company Profile" .
+<http://sg.ebsco.link/resource/4qaXyq3Tm9o> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001518766304886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/4qaXyq3Tm9o> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001518766304886 ∀ LUX" .
+<http://sg.ebsco.link/resource/4qaXyq3Tm9o> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001518766304886 ∀ LUX" .
+<http://sg.ebsco.link/resource/4qaXyq3Tm9o> <http://library.link/vocab/recordID> "991001518766304886" .
+<http://sg.ebsco.link/resource/4qaXyq3Tm9o> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/4qaXyq3Tm9o> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001518766304886 ∀ LUX" .
+<http://sg.ebsco.link/resource/WSHG_BYgtEw> <http://bibfra.me/vocab/lite/label> "Information and Spillovers from Targeting Policy in Peru's Anchoveta Fishery" .
+<http://sg.ebsco.link/resource/WSHG_BYgtEw> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/WSHG_BYgtEw> <http://bibfra.me/vocab/lite/identifier> "991001425367404886" .
+<http://sg.ebsco.link/resource/WSHG_BYgtEw> <http://www.w3.org/2000/01/rdf-schema#label> "Information and Spillovers from Targeting Policy in Peru's Anchoveta Fishery" .
+<http://sg.ebsco.link/resource/vl55-gAaXbM> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Issues and developments in international trade policy, by Margaret Kelly ... [et al.]" .
+<http://sg.ebsco.link/resource/vl55-gAaXbM> <http://bibfra.me/vocab/marc/leader> "-----cam-a22-----z--4500" .
+<http://sg.ebsco.link/resource/vl55-gAaXbM> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/vl55-gAaXbM> <http://bibfra.me/vocab/marc/changeDate> "19890227115812.9" .
+<http://sg.ebsco.link/resource/vl55-gAaXbM> <http://bibfra.me/vocab/marc/controlNumber> "991001344107104886" .
+<http://sg.ebsco.link/resource/vl55-gAaXbM> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Issues and developments in international trade policy, by Margaret Kelly ... [et al.]" .
+<http://sg.ebsco.link/resource/vl55-gAaXbM> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "220316u1988uuuuuuuuu-|-o----u|----|eng-d" .
+<http://sg.ebsco.link/resource/mYhROnx_7nc> <http://bibfra.me/vocab/lite/name> "9781000926569" .
+<http://sg.ebsco.link/resource/mYhROnx_7nc> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/mYhROnx_7nc> <http://www.w3.org/2000/01/rdf-schema#label> "9781000926569" .
+<http://sg.ebsco.link/resource/ig-uWSM8ZDw> <http://bibfra.me/vocab/lite/label> "Social Protection in Niger: What Have Shocks and Time Got to Say?" .
+<http://sg.ebsco.link/resource/ig-uWSM8ZDw> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/ig-uWSM8ZDw> <http://bibfra.me/vocab/marc/formOfItem> "online" .
+<http://sg.ebsco.link/resource/ig-uWSM8ZDw> <http://www.w3.org/2000/01/rdf-schema#label> "Social Protection in Niger: What Have Shocks and Time Got to Say?" .
+<http://sg.ebsco.link/resource/ig-uWSM8ZDw> <http://bibfra.me/vocab/marc/systemControlNumber> "(The World Bank)8455" .
+<http://sg.ebsco.link/resource/ig-uWSM8ZDw> <http://bibfra.me/vocab/marc/systemControlNumber> "(CKB)4100000007108605" .
+<http://sg.ebsco.link/resource/ig-uWSM8ZDw> <http://bibfra.me/vocab/marc/systemControlNumber> "(EXLCZ)994100000007108605" .
+<http://sg.ebsco.link/resource/0KoTS1H8OuE> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001315803904886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/0KoTS1H8OuE> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001315803904886 ∀ BRU" .
+<http://sg.ebsco.link/resource/0KoTS1H8OuE> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001315803904886 ∀ BRU" .
+<http://sg.ebsco.link/resource/0KoTS1H8OuE> <http://library.link/vocab/recordID> "991001315803904886" .
+<http://sg.ebsco.link/resource/0KoTS1H8OuE> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/0KoTS1H8OuE> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001315803904886 ∀ BRU" .
+<http://sg.ebsco.link/resource/a1KF0v39fz8> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001422355104886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/a1KF0v39fz8> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001422355104886 ∀ STR" .
+<http://sg.ebsco.link/resource/a1KF0v39fz8> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001422355104886 ∀ STR" .
+<http://sg.ebsco.link/resource/a1KF0v39fz8> <http://library.link/vocab/recordID> "991001422355104886" .
+<http://sg.ebsco.link/resource/a1KF0v39fz8> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/a1KF0v39fz8> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001422355104886 ∀ STR" .
+<http://sg.ebsco.link/resource/P4rTFbs1TSk> <http://bibfra.me/vocab/lite/label> "Mind the Gap : Addressing Critical Technical Issues in Strengthening National Hydrometeorological Services" .
+<http://sg.ebsco.link/resource/P4rTFbs1TSk> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/P4rTFbs1TSk> <http://bibfra.me/vocab/marc/formOfItem> "online" .
+<http://sg.ebsco.link/resource/P4rTFbs1TSk> <http://www.w3.org/2000/01/rdf-schema#label> "Mind the Gap : Addressing Critical Technical Issues in Strengthening National Hydrometeorological Services" .
+<http://sg.ebsco.link/resource/P4rTFbs1TSk> <http://bibfra.me/vocab/marc/systemControlNumber> "(CKB)4920000001212711" .
+<http://sg.ebsco.link/resource/P4rTFbs1TSk> <http://bibfra.me/vocab/marc/systemControlNumber> "(EXLCZ)994920000001212711" .
+<http://sg.ebsco.link/resource/QGmZS2kW67Q> <http://bibfra.me/vocab/lite/name> "Literaturgeschichte" .
+<http://sg.ebsco.link/resource/QGmZS2kW67Q> <http://bibfra.me/vocab/lite/label> "Literaturgeschichte" .
+<http://sg.ebsco.link/resource/QGmZS2kW67Q> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/QGmZS2kW67Q> <http://www.w3.org/2000/01/rdf-schema#label> "Literaturgeschichte" .
+<http://sg.ebsco.link/resource/QGmZS2kW67Q> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '653_focus', 'subfields': [{'a': 'Literaturgeschichte'}], 'ind1': ' ', 'ind2': ' '}" .
+<http://sg.ebsco.link/resource/Br3VbAv6dXE> <http://bibfra.me/vocab/lite/link> "http://id.loc.gov/authorities/names/n97088005" .
+<http://sg.ebsco.link/resource/Br3VbAv6dXE> <http://bibfra.me/vocab/lite/name> "n97088005" .
+<http://sg.ebsco.link/resource/Br3VbAv6dXE> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/wikidata" .
+<http://sg.ebsco.link/resource/Br3VbAv6dXE> <http://www.w3.org/2000/01/rdf-schema#label> "n97088005" .
+<http://sg.ebsco.link/resource/HJ8BsVyVYWM> <http://bibfra.me/vocab/lite/label> "I. B. Tauris & Company" .
+<http://sg.ebsco.link/resource/HJ8BsVyVYWM> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/HJ8BsVyVYWM> <http://www.w3.org/2000/01/rdf-schema#label> "I. B. Tauris & Company" .
+<http://sg.ebsco.link/resource/mnaw1P83Xyo> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Ireland, Financial Sector Assessment Program : technical note--macroprudential policy framework" .
+<http://sg.ebsco.link/resource/mnaw1P83Xyo> <http://bibfra.me/vocab/marc/leader> "02042nam  2200457 i 4500" .
+<http://sg.ebsco.link/resource/mnaw1P83Xyo> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/mnaw1P83Xyo> <http://bibfra.me/vocab/marc/changeDate> "20200520144314.0" .
+<http://sg.ebsco.link/resource/mnaw1P83Xyo> <http://bibfra.me/vocab/marc/controlNumber> "991001363735904886" .
+<http://sg.ebsco.link/resource/mnaw1P83Xyo> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Ireland, Financial Sector Assessment Program : technical note--macroprudential policy framework" .
+<http://sg.ebsco.link/resource/mnaw1P83Xyo> <http://bibfra.me/vocab/marc/modifyingAgency> "MiAaPQ" .
+<http://sg.ebsco.link/resource/mnaw1P83Xyo> <http://bibfra.me/vocab/marc/catalogingAgency> "MiAaPQ" .
+<http://sg.ebsco.link/resource/mnaw1P83Xyo> <http://bibfra.me/vocab/marc/transcribingAgency> "MiAaPQ" .
+<http://sg.ebsco.link/resource/mnaw1P83Xyo> <http://bibfra.me/vocab/marc/descriptionConventions> "rda" .
+<http://sg.ebsco.link/resource/mnaw1P83Xyo> <http://bibfra.me/vocab/marc/descriptionConventions> "pn" .
+<http://sg.ebsco.link/resource/mnaw1P83Xyo> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "161104t20162016dcua    ob    000 0 eng d" .
+<http://sg.ebsco.link/resource/mnaw1P83Xyo> <http://bibfra.me/vocab/marc/fixedLengthPhysicalDescription> "cr cnu||||||||" .
+<http://sg.ebsco.link/resource/mnaw1P83Xyo> <http://bibfra.me/vocab/marc/fixedLengthMaterialCharacteristics> "m     o  d |      " .
+<http://sg.ebsco.link/resource/vjVUKli2qeE> <http://bibfra.me/vocab/lite/label> "Foreign Assistance of Illiberal and Autocratic Regimes" .
+<http://sg.ebsco.link/resource/vjVUKli2qeE> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/vjVUKli2qeE> <http://bibfra.me/vocab/lite/identifier> "991001525385204886" .
+<http://sg.ebsco.link/resource/vjVUKli2qeE> <http://www.w3.org/2000/01/rdf-schema#label> "Foreign Assistance of Illiberal and Autocratic Regimes" .
+<http://sg.ebsco.link/resource/UQZ-Fxgh7ag> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Bhutan, 2009 Article IV Consultation-Staff Report; Staff Supplement; and Public Information Notice on the Executive Board Discussion" .
+<http://sg.ebsco.link/resource/UQZ-Fxgh7ag> <http://bibfra.me/vocab/marc/leader> "03550nam a22005893u 4500" .
+<http://sg.ebsco.link/resource/UQZ-Fxgh7ag> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/UQZ-Fxgh7ag> <http://bibfra.me/vocab/marc/changeDate> "20230721050809.0" .
+<http://sg.ebsco.link/resource/UQZ-Fxgh7ag> <http://bibfra.me/vocab/marc/controlNumber> "991001344408104886" .
+<http://sg.ebsco.link/resource/UQZ-Fxgh7ag> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Bhutan, 2009 Article IV Consultation-Staff Report; Staff Supplement; and Public Information Notice on the Executive Board Discussion" .
+<http://sg.ebsco.link/resource/UQZ-Fxgh7ag> <http://bibfra.me/vocab/marc/modifyingAgency> "AU-PeEL" .
+<http://sg.ebsco.link/resource/UQZ-Fxgh7ag> <http://bibfra.me/vocab/marc/catalogingAgency> "AU-PeEL" .
+<http://sg.ebsco.link/resource/UQZ-Fxgh7ag> <http://bibfra.me/vocab/marc/transcribingAgency> "AU-PeEL" .
+<http://sg.ebsco.link/resource/UQZ-Fxgh7ag> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "151005s2009|||||||     s|||||||||||eng|d" .
+<http://sg.ebsco.link/resource/UQZ-Fxgh7ag> <http://bibfra.me/vocab/marc/fixedLengthPhysicalDescription> "cr -n---------" .
+<http://sg.ebsco.link/resource/UQZ-Fxgh7ag> <http://bibfra.me/vocab/marc/fixedLengthMaterialCharacteristics> "m        d        " .
+<http://sg.ebsco.link/resource/5ChGKNC5T6c> <http://bibfra.me/vocab/lite/name> "Reading Financial Reports for Dummies" .
+<http://sg.ebsco.link/resource/5ChGKNC5T6c> <http://bibfra.me/vocab/lite/label> "Epstein, Lita, Reading Financial Reports for Dummies" .
+<http://sg.ebsco.link/resource/5ChGKNC5T6c> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/5ChGKNC5T6c> <http://bibfra.me/vocab/marc/mainHeading> "Epstein, Lita" .
+<http://sg.ebsco.link/resource/5ChGKNC5T6c> <http://www.w3.org/2000/01/rdf-schema#label> "Epstein, Lita, Reading Financial Reports for Dummies" .
+<http://sg.ebsco.link/resource/5ChGKNC5T6c> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '776', 'subfields': [{'i': 'Print version:'}, {'a': 'Epstein, Lita'}, {'t': 'Reading Financial Reports for Dummies'}, {'d': 'Newark : John Wiley & Sons, Incorporated,c2022'}, {'z': '9781119871361'}], 'ind1': '0', 'ind2': '8'}" .
+<http://sg.ebsco.link/resource/5ChGKNC5T6c> <http://bibfra.me/vocab/marc/publicationInformation> "Newark : John Wiley & Sons, Incorporated,c2022" .
+<http://sg.ebsco.link/resource/5ChGKNC5T6c> <http://bibfra.me/vocab/lite/relationshipInformation> "Print version" .
+<http://sg.ebsco.link/resource/2ZENa8lWIu4> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001316058204886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/2ZENa8lWIu4> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001316058204886 ∀ STR" .
+<http://sg.ebsco.link/resource/2ZENa8lWIu4> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001316058204886 ∀ STR" .
+<http://sg.ebsco.link/resource/2ZENa8lWIu4> <http://library.link/vocab/recordID> "991001316058204886" .
+<http://sg.ebsco.link/resource/2ZENa8lWIu4> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/2ZENa8lWIu4> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001316058204886 ∀ STR" .
+<http://sg.ebsco.link/resource/8QTv53UzVH0> <http://bibfra.me/vocab/lite/label> "Administrative metadata: International journal of clinical legal education" .
+<http://sg.ebsco.link/resource/8QTv53UzVH0> <http://bibfra.me/vocab/marc/leader> "-----nas--2200457-i-4500" .
+<http://sg.ebsco.link/resource/8QTv53UzVH0> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/8QTv53UzVH0> <http://bibfra.me/vocab/marc/changeDate> "20220322213019.0" .
+<http://sg.ebsco.link/resource/8QTv53UzVH0> <http://bibfra.me/vocab/marc/controlNumber> "991001115577904886" .
+<http://sg.ebsco.link/resource/8QTv53UzVH0> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: International journal of clinical legal education" .
+<http://sg.ebsco.link/resource/8QTv53UzVH0> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "050627c20009999enk-x-p-og----0----0eng-c" .
+<http://sg.ebsco.link/resource/8QTv53UzVH0> <http://bibfra.me/vocab/marc/fixedLengthMaterialCharacteristics> "m-----o--d--------" .
+<http://sg.ebsco.link/resource/CvCGOcpxK38> <http://bibfra.me/vocab/marc/isbn> "9781787859210" .
+<http://sg.ebsco.link/resource/CvCGOcpxK38> <http://bibfra.me/vocab/lite/label> "Obesity, health and economic consequences of an impending global challenge, Meera Shekar, Barry Popkin, editors" .
+<http://sg.ebsco.link/resource/CvCGOcpxK38> <http://bibfra.me/vocab/marc/color> "multicolored" .
+<http://sg.ebsco.link/resource/CvCGOcpxK38> <http://bibfra.me/vocab/marc/sound> "unknown sound" .
+<http://sg.ebsco.link/resource/CvCGOcpxK38> <http://library.link/vocab/coverArt> "https://proxy-eu.hosted.exlibrisgroup.com/exl_rewrite/syndetics.com/index.php?client=primo&isbn=9781787859210/lc.jpg" .
+<http://sg.ebsco.link/resource/CvCGOcpxK38> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/CvCGOcpxK38> <http://bibfra.me/vocab/marc/dimensions> "unknown" .
+<http://sg.ebsco.link/resource/CvCGOcpxK38> <http://bibfra.me/vocab/marc/formOfItem> "online" .
+<http://sg.ebsco.link/resource/CvCGOcpxK38> <http://www.w3.org/2000/01/rdf-schema#label> "Obesity, health and economic consequences of an impending global challenge, Meera Shekar, Barry Popkin, editors" .
+<http://sg.ebsco.link/resource/CvCGOcpxK38> <http://bibfra.me/vocab/marc/physicalDescription> "1 online resource (233 pages)." .
+<http://sg.ebsco.link/resource/CvCGOcpxK38> <http://bibfra.me/vocab/marc/systemControlNumber> "(CKB)4100000010327201" .
+<http://sg.ebsco.link/resource/CvCGOcpxK38> <http://bibfra.me/vocab/marc/systemControlNumber> "(MiAaPQ)EBC6040190" .
+<http://sg.ebsco.link/resource/CvCGOcpxK38> <http://bibfra.me/vocab/marc/systemControlNumber> "(EXLCZ)994100000010327201" .
+<http://sg.ebsco.link/resource/CvCGOcpxK38> <http://bibfra.me/vocab/marc/specificMaterialDesignation> "remote" .
+<http://sg.ebsco.link/resource/M9ELGOdfjf4> <http://bibfra.me/vocab/lite/name> "Precautionary principle" .
+<http://sg.ebsco.link/resource/M9ELGOdfjf4> <http://bibfra.me/vocab/lite/label> "Precautionary principle" .
+<http://sg.ebsco.link/resource/M9ELGOdfjf4> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/M9ELGOdfjf4> <http://www.w3.org/2000/01/rdf-schema#label> "Precautionary principle" .
+<http://sg.ebsco.link/resource/M9ELGOdfjf4> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '650', 'subfields': [{'a': 'Precautionary principle'}], 'ind1': ' ', 'ind2': '0'}" .
+<http://sg.ebsco.link/resource/8G5YP_f-7WQ> <http://bibfra.me/vocab/lite/label> "Mahwah" .
+<http://sg.ebsco.link/resource/8G5YP_f-7WQ> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/8G5YP_f-7WQ> <http://www.w3.org/2000/01/rdf-schema#label> "Mahwah" .
+<http://sg.ebsco.link/resource/S1ZUWwpYW1Q> <http://bibfra.me/vocab/lite/label> "What Does China Think?, Mark Leonard" .
+<http://sg.ebsco.link/resource/S1ZUWwpYW1Q> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/S1ZUWwpYW1Q> <http://bibfra.me/vocab/lite/identifier> "991001422262504886" .
+<http://sg.ebsco.link/resource/S1ZUWwpYW1Q> <http://www.w3.org/2000/01/rdf-schema#label> "What Does China Think?, Mark Leonard" .
+<http://sg.ebsco.link/resource/S1ZUWwpYW1Q> <http://bibfra.me/vocab/marc/lcClassificationNumber> "getAbstract" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/lite/note> "Description based upon print version of record" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/marc/isbn> "9781455239948" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/lite/label> "Morocco, 2006 Article IV consultation : staff report, staff statement, public information notice on the Executive Board discussion and statement by the Executive Director for Morocco, International Monetary Fund" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://library.link/vocab/coverArt> "https://proxy-eu.hosted.exlibrisgroup.com/exl_rewrite/syndetics.com/index.php?client=primo&isbn=9781455239948/lc.jpg" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/marc/dimensions> "unknown" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/marc/formOfItem> "online" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://www.w3.org/2000/01/rdf-schema#label> "Morocco, 2006 Article IV consultation : staff report, staff statement, public information notice on the Executive Board discussion and statement by the Executive Director for Morocco, International Monetary Fund" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/marc/physicalDescription> "1 online resource (46 p.)" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/marc/systemControlNumber> "(CKB)3360000000439962" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/marc/systemControlNumber> "(EBL)3013402" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/marc/systemControlNumber> "(SSID)ssj0001484804" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/marc/systemControlNumber> "(PQKBManifestationID)11801751" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/marc/systemControlNumber> "(PQKBTitleCode)TC0001484804" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/marc/systemControlNumber> "(PQKBWorkID)11437779" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/marc/systemControlNumber> "(PQKB)11681320" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/marc/systemControlNumber> "(MiAaPQ)EBC3013402" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/marc/systemControlNumber> "(EXLCZ)993360000000439962" .
+<http://sg.ebsco.link/resource/Ayyi_3EYyV4> <http://bibfra.me/vocab/marc/specificMaterialDesignation> "remote" .
+<http://sg.ebsco.link/resource/PUikdcMExOs> <http://bibfra.me/vocab/lite/link> "http://id.loc.gov/authorities/names/n2001108019" .
+<http://sg.ebsco.link/resource/PUikdcMExOs> <http://bibfra.me/vocab/lite/name> "n2001108019" .
+<http://sg.ebsco.link/resource/PUikdcMExOs> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/wikidata" .
+<http://sg.ebsco.link/resource/PUikdcMExOs> <http://www.w3.org/2000/01/rdf-schema#label> "n2001108019" .
+<http://sg.ebsco.link/resource/PETO3H-jybU> <http://bibfra.me/vocab/lite/link> "https://dx.doi.org/10.1163/9789004401891" .
+<http://sg.ebsco.link/resource/PETO3H-jybU> <http://bibfra.me/vocab/lite/name> "10.1163/9789004401891" .
+<http://sg.ebsco.link/resource/PETO3H-jybU> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/PETO3H-jybU> <http://www.w3.org/2000/01/rdf-schema#label> "10.1163/9789004401891" .
+<http://sg.ebsco.link/resource/viAVO8Qf5Lk> <http://bibfra.me/vocab/lite/name> "1-107-07237-9" .
+<http://sg.ebsco.link/resource/viAVO8Qf5Lk> <http://bibfra.me/vocab/lite/label> "(1-107-07237-9)" .
+<http://sg.ebsco.link/resource/viAVO8Qf5Lk> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/viAVO8Qf5Lk> <http://www.w3.org/2000/01/rdf-schema#label> "(1-107-07237-9)" .
+<http://sg.ebsco.link/resource/viAVO8Qf5Lk> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '776', 'subfields': [{'z': '1-107-07237-9'}], 'ind1': ' ', 'ind2': ' '}" .
+<http://sg.ebsco.link/resource/ziZHIOa8w5M> <http://bibfra.me/vocab/lite/label> "Ethiopia Gender Diagnostic Report : Priorities for Promoting Equity" .
+<http://sg.ebsco.link/resource/ziZHIOa8w5M> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/ziZHIOa8w5M> <http://bibfra.me/vocab/lite/identifier> "991001387412804886" .
+<http://sg.ebsco.link/resource/ziZHIOa8w5M> <http://www.w3.org/2000/01/rdf-schema#label> "Ethiopia Gender Diagnostic Report : Priorities for Promoting Equity" .
+<http://sg.ebsco.link/resource/X5oIdUBxlts> <http://bibfra.me/vocab/marc/isbn> "9781475536317" .
+<http://sg.ebsco.link/resource/X5oIdUBxlts> <http://bibfra.me/vocab/lite/label> "Jordan, request for an extended arrangement under the extended fund facility; press release; staff report; and statement by the Executive Director for Jordan, International Monetary Fund" .
+<http://sg.ebsco.link/resource/X5oIdUBxlts> <http://bibfra.me/vocab/marc/color> "multicolored" .
+<http://sg.ebsco.link/resource/X5oIdUBxlts> <http://bibfra.me/vocab/marc/sound> "unknown sound" .
+<http://sg.ebsco.link/resource/X5oIdUBxlts> <http://library.link/vocab/coverArt> "https://proxy-eu.hosted.exlibrisgroup.com/exl_rewrite/syndetics.com/index.php?client=primo&isbn=9781475536263/lc.jpg" .
+<http://sg.ebsco.link/resource/X5oIdUBxlts> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/X5oIdUBxlts> <http://bibfra.me/vocab/marc/dimensions> "unknown" .
+<http://sg.ebsco.link/resource/X5oIdUBxlts> <http://bibfra.me/vocab/marc/formOfItem> "online" .
+<http://sg.ebsco.link/resource/X5oIdUBxlts> <http://www.w3.org/2000/01/rdf-schema#label> "Jordan, request for an extended arrangement under the extended fund facility; press release; staff report; and statement by the Executive Director for Jordan, International Monetary Fund" .
+<http://sg.ebsco.link/resource/X5oIdUBxlts> <http://bibfra.me/vocab/marc/physicalDescription> "1 online resource (101 pages), color illustrations, charts." .
+<http://sg.ebsco.link/resource/X5oIdUBxlts> <http://bibfra.me/vocab/marc/systemControlNumber> "(CKB)3710000000886148" .
+<http://sg.ebsco.link/resource/X5oIdUBxlts> <http://bibfra.me/vocab/marc/systemControlNumber> "(MiAaPQ)EBC4711669" .
+<http://sg.ebsco.link/resource/X5oIdUBxlts> <http://bibfra.me/vocab/marc/systemControlNumber> "(EXLCZ)993710000000886148" .
+<http://sg.ebsco.link/resource/X5oIdUBxlts> <http://bibfra.me/vocab/marc/specificMaterialDesignation> "remote" .
+<http://sg.ebsco.link/resource/GLgEcEBUXRc> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001388710504886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/GLgEcEBUXRc> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001388710504886 ∀ STR" .
+<http://sg.ebsco.link/resource/GLgEcEBUXRc> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001388710504886 ∀ STR" .
+<http://sg.ebsco.link/resource/GLgEcEBUXRc> <http://library.link/vocab/recordID> "991001388710504886" .
+<http://sg.ebsco.link/resource/GLgEcEBUXRc> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/GLgEcEBUXRc> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001388710504886 ∀ STR" .
+<http://sg.ebsco.link/resource/z45gGgylds0> <http://bibfra.me/vocab/lite/label> "Administrative metadata: Developing Competency to Manage Diversity, Readings, Cases and Activities, Taylor Cox Jr. and Ruby L. Beale" .
+<http://sg.ebsco.link/resource/z45gGgylds0> <http://bibfra.me/vocab/marc/leader> "01669cam  22002297u 4500" .
+<http://sg.ebsco.link/resource/z45gGgylds0> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/z45gGgylds0> <http://bibfra.me/vocab/marc/changeDate> "20230622002532.0" .
+<http://sg.ebsco.link/resource/z45gGgylds0> <http://bibfra.me/vocab/marc/controlNumber> "991001422461804886" .
+<http://sg.ebsco.link/resource/z45gGgylds0> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: Developing Competency to Manage Diversity, Readings, Cases and Activities, Taylor Cox Jr. and Ruby L. Beale" .
+<http://sg.ebsco.link/resource/z45gGgylds0> <http://bibfra.me/vocab/marc/transcribingAgency> "getAbstract" .
+<http://sg.ebsco.link/resource/z45gGgylds0> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "230106s        xx      r     ||| 0|   |d" .
+<http://sg.ebsco.link/resource/db45-0wFKtI> <http://bibfra.me/vocab/lite/name> "9783866184510" .
+<http://sg.ebsco.link/resource/db45-0wFKtI> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/db45-0wFKtI> <http://www.w3.org/2000/01/rdf-schema#label> "9783866184510" .
+<http://sg.ebsco.link/resource/60oLCn36Tb4> <http://bibfra.me/vocab/lite/name> "3-662-62295-5" .
+<http://sg.ebsco.link/resource/60oLCn36Tb4> <http://bibfra.me/vocab/lite/label> "(3-662-62295-5)" .
+<http://sg.ebsco.link/resource/60oLCn36Tb4> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/60oLCn36Tb4> <http://www.w3.org/2000/01/rdf-schema#label> "(3-662-62295-5)" .
+<http://sg.ebsco.link/resource/60oLCn36Tb4> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '776', 'subfields': [{'z': '3-662-62295-5'}], 'ind1': ' ', 'ind2': ' '}" .
+<http://sg.ebsco.link/resource/L2XBImY6ZCA> <http://bibfra.me/vocab/lite/name> "Modèle IS-LM (Macroéconomie)" .
+<http://sg.ebsco.link/resource/L2XBImY6ZCA> <http://bibfra.me/vocab/lite/label> "Modèle IS-LM (Macroéconomie)" .
+<http://sg.ebsco.link/resource/L2XBImY6ZCA> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/L2XBImY6ZCA> <http://www.w3.org/2000/01/rdf-schema#label> "Modèle IS-LM (Macroéconomie)" .
+<http://sg.ebsco.link/resource/L2XBImY6ZCA> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '650', 'subfields': [{'a': 'Modèle IS-LM (Macroéconomie)'}], 'ind1': ' ', 'ind2': '6'}" .
+<http://sg.ebsco.link/resource/I-jv1TJH2yA> <http://bibfra.me/vocab/lite/name> "Mumtaz, Zahid" .
+<http://sg.ebsco.link/resource/I-jv1TJH2yA> <http://bibfra.me/vocab/lite/label> "Mumtaz, Zahid" .
+<http://sg.ebsco.link/resource/I-jv1TJH2yA> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/I-jv1TJH2yA> <http://www.w3.org/2000/01/rdf-schema#label> "Mumtaz, Zahid" .
+<http://sg.ebsco.link/resource/I-jv1TJH2yA> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '100', 'subfields': [{'a': 'Mumtaz, Zahid'}, {'e': 'author'}], 'ind1': '1', 'ind2': ' '}" .
+<http://sg.ebsco.link/resource/q2aSReF8Vy8> <http://bibfra.me/vocab/lite/label> "A guide to the socialist economies, Ian Jeffries" .
+<http://sg.ebsco.link/resource/q2aSReF8Vy8> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/q2aSReF8Vy8> <http://bibfra.me/vocab/lite/identifier> "991001411095604886" .
+<http://sg.ebsco.link/resource/q2aSReF8Vy8> <http://bibfra.me/vocab/marc/lcItemNumber> ".J444 2022" .
+<http://sg.ebsco.link/resource/q2aSReF8Vy8> <http://www.w3.org/2000/01/rdf-schema#label> "A guide to the socialist economies, Ian Jeffries" .
+<http://sg.ebsco.link/resource/q2aSReF8Vy8> <http://bibfra.me/vocab/marc/lcClassificationNumber> "HC336.25" .
+<http://sg.ebsco.link/resource/fdPYcVlGnzw> <http://bibfra.me/vocab/lite/link> "https://europarl.primo.exlibrisgroup.com/discovery/search?query=any,contains,991001421541004886&vid=32EPA_INST:32EPA_V1" .
+<http://sg.ebsco.link/resource/fdPYcVlGnzw> <http://bibfra.me/vocab/lite/name> "Borrow Action: 991001421541004886 ∀ BRU" .
+<http://sg.ebsco.link/resource/fdPYcVlGnzw> <http://bibfra.me/vocab/lite/label> "Borrow Action: 991001421541004886 ∀ BRU" .
+<http://sg.ebsco.link/resource/fdPYcVlGnzw> <http://library.link/vocab/recordID> "991001421541004886" .
+<http://sg.ebsco.link/resource/fdPYcVlGnzw> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/fdPYcVlGnzw> <http://www.w3.org/2000/01/rdf-schema#label> "Borrow Action: 991001421541004886 ∀ BRU" .
+<http://sg.ebsco.link/resource/3354H3h18NU> <http://bibfra.me/vocab/lite/link> "http://www.worldcat.org/oclc/1357000898" .
+<http://sg.ebsco.link/resource/3354H3h18NU> <http://bibfra.me/vocab/lite/name> "1357000898" .
+<http://sg.ebsco.link/resource/3354H3h18NU> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/3354H3h18NU> <http://www.w3.org/2000/01/rdf-schema#label> "1357000898" .
+<http://sg.ebsco.link/resource/-ky8pgapvT0> <http://bibfra.me/vocab/lite/label> "Administrative metadata: A History of the Château de la Muette, Organisation for Economic Co-operation and Development" .
+<http://sg.ebsco.link/resource/-ky8pgapvT0> <http://bibfra.me/vocab/marc/leader> "01521cam a22002298i 4500" .
+<http://sg.ebsco.link/resource/-ky8pgapvT0> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/-ky8pgapvT0> <http://bibfra.me/vocab/marc/changeDate> "20210801000000.0" .
+<http://sg.ebsco.link/resource/-ky8pgapvT0> <http://bibfra.me/vocab/marc/controlNumber> "991001116299504886" .
+<http://sg.ebsco.link/resource/-ky8pgapvT0> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative metadata: A History of the Château de la Muette, Organisation for Economic Co-operation and Development" .
+<http://sg.ebsco.link/resource/-ky8pgapvT0> <http://bibfra.me/vocab/marc/catalogingAgency> "FR-PaOEC" .
+<http://sg.ebsco.link/resource/-ky8pgapvT0> <http://bibfra.me/vocab/marc/fixedLengthDataElements> "171201s1999    |||     o    i|0| 0 eng d" .
+<http://sg.ebsco.link/resource/-ky8pgapvT0> <http://bibfra.me/vocab/marc/fixedLengthPhysicalDescription> "cr || |||m|n||" .
+<http://sg.ebsco.link/resource/-ky8pgapvT0> <http://bibfra.me/vocab/marc/fixedLengthMaterialCharacteristics> "a     o  d i      " .
+<http://sg.ebsco.link/resource/VRSEoft2dmo> <http://bibfra.me/vocab/lite/name> "9789463510820" .
+<http://sg.ebsco.link/resource/VRSEoft2dmo> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/VRSEoft2dmo> <http://www.w3.org/2000/01/rdf-schema#label> "9789463510820" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://bibfra.me/vocab/lite/label> "The Macedonian question and the Macedonians, a history, Alexis Heraclides" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://bibfra.me/vocab/marc/index> "no index present" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://bibfra.me/vocab/marc/summary> "This book is a comprehensive and dispassionate analysis of the intriguing Macedonian Question from 1878 until 1949 and of the Macedonians (and of their neighbours) from the 1890s until today, with the two themes intertwining. The Macedonian Question was an offshoot of the wider Eastern Question - i.e., the fate of the European remnants of the Ottoman Empire once it dissolved. The initial protagonists of the Macedonian Question were Greece, Bulgaria and Serbia, and a Slav-speaking population inhabiting geographical Macedonia in search of its destiny, the largest segment of which ended up creating a new nation, comprising the Macedonians, something unacceptable to its three neighbours. Alexis Heraclides analyses the shifting sands of the Macedonian Question and of the gradual rise of Macedonian nationhood, with special emphasis on the Greek, Bulgarian and Serbian claims to Macedonia (1870s-1919); the birth and vicissitudes of the most famous Macedonian revolutionary organization, the VM(O)RO, and of other organizations (1893-1940); the appearance and gradual establishment of the Macedonian nation from the 1890s until 1945; Titos's crucial role in Macedonian nationhood-cum-federal status; the Greek-Macedonian name dispute (1991-2018), including the skeletons in the cupboard' - the deep-seated reasons rendering the clash intractable for decades; the final Greek-Macedonian settlement (the 2018 Prespa Agreement); the Bulgarian-Macedonian dispute (1950-today) and its ephemeral settlement in 2017; the issue of the Macedonian language; and the Macedonian national historical narrative. The author also addresses questions around who the ancient Macedonians were and the fascination with Alexander the Great. This monograph will be an essential resource for scholars working on Macedonian history, Balkan politics and conflict resolution" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://bibfra.me/vocab/lite/language> "eng" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://bibfra.me/vocab/marc/subTitle> "a history" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://bibfra.me/vocab/marc/mainTitle> "The Macedonian question and the Macedonians" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://bibfra.me/vocab/marc/oclcNumber> "1223027072" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://bibfra.me/vocab/marc/literaryForm> "non fiction" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://bibfra.me/vocab/marc/illustrations> "illustrations" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://bibfra.me/vocab/marc/targetAudience> "general" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://www.w3.org/2000/01/rdf-schema#label> "The Macedonian question and the Macedonians, a history, Alexis Heraclides" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://bibfra.me/vocab/marc/seriesStatement> "Routledge Histories of Central and Eastern Europe" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://bibfra.me/vocab/marc/tableOfContents> "Preface,   1. Greek, Bulgarian and Serbian Claims to Macedonia;  2. The War of Ethnographic Maps;  3. The VM(O)RO & Other Macedonian Organizations (1893-1940);  4. Tracing the Birth of a Balkan Nation;  5. Tito and the Macedonians;  6. The 'New Macedonian Question': The Greek-Macedonian dispute;  7. Bulgaria's Stance Towards Macedonia;  8. The Macedonian Language;  9. The Macedonian National Historical Narrative;  10. The Charm of Alexander the Great: Who Were the Ancient Macedonians?;  11. The Crux of the Greek-Macedonian Dispute: The Skeletons in the Cupboard;  12. The Settlement of the Greek-Macedonian Dispute: the Prespa Agreement;  13. The Ephemeral Macedonian-Bulgarian Rapprochement;  Select Bibliography" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://bibfra.me/vocab/marc/natureOfContents> "dictionaries" .
+<http://sg.ebsco.link/resource/ZeshBQnE8Yk> <http://bibfra.me/vocab/marc/responsibilityStatement> "Alexis Heraclides" .
+<http://sg.ebsco.link/resource/Z4eDE9nasso> <http://bibfra.me/vocab/lite/label> "Sears Holdings Corporation SWOT Analysis" .
+<http://sg.ebsco.link/resource/Z4eDE9nasso> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/Z4eDE9nasso> <http://bibfra.me/vocab/lite/identifier> "991001315267704886" .
+<http://sg.ebsco.link/resource/Z4eDE9nasso> <http://www.w3.org/2000/01/rdf-schema#label> "Sears Holdings Corporation SWOT Analysis" .
+<http://sg.ebsco.link/resource/tzsBBL9pBf8> <http://bibfra.me/vocab/lite/label> "Exchange Rates in the Periphery and International Adjustment under the Gold Standard" .
+<http://sg.ebsco.link/resource/tzsBBL9pBf8> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/tzsBBL9pBf8> <http://bibfra.me/vocab/lite/identifier> "991001344939404886" .
+<http://sg.ebsco.link/resource/tzsBBL9pBf8> <http://www.w3.org/2000/01/rdf-schema#label> "Exchange Rates in the Periphery and International Adjustment under the Gold Standard" .
+<http://sg.ebsco.link/resource/L83pBjYvFbk> <http://bibfra.me/vocab/lite/name> "Nazi concentration camp inmates" .
+<http://sg.ebsco.link/resource/L83pBjYvFbk> <http://bibfra.me/vocab/lite/label> "Nazi concentration camp inmates" .
+<http://sg.ebsco.link/resource/L83pBjYvFbk> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/L83pBjYvFbk> <http://www.w3.org/2000/01/rdf-schema#label> "Nazi concentration camp inmates" .
+<http://sg.ebsco.link/resource/L83pBjYvFbk> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '650_focus', 'subfields': [{'a': 'Nazi concentration camp inmates'}], 'ind1': ' ', 'ind2': '0'}" .
+<http://sg.ebsco.link/resource/xwtsTPMJDsI> <http://bibfra.me/vocab/lite/note> "5 page summary" .
+<http://sg.ebsco.link/resource/xwtsTPMJDsI> <http://bibfra.me/vocab/lite/label> "China 2020, How Western Business Can – and Should – Influence Social and Political Change in the Coming Decade, Michael A. Santoro" .
+<http://sg.ebsco.link/resource/xwtsTPMJDsI> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/xwtsTPMJDsI> <http://bibfra.me/vocab/marc/formOfItem> "regular print reproduction" .
+<http://sg.ebsco.link/resource/xwtsTPMJDsI> <http://www.w3.org/2000/01/rdf-schema#label> "China 2020, How Western Business Can – and Should – Influence Social and Political Change in the Coming Decade, Michael A. Santoro" .
+<http://sg.ebsco.link/resource/xwtsTPMJDsI> <http://bibfra.me/vocab/marc/physicalDescription> "digital (5 p.)" .
+<http://sg.ebsco.link/resource/xwtsTPMJDsI> <http://bibfra.me/vocab/marc/systemControlNumber> "(getAbstract)12446" .
+<http://sg.ebsco.link/resource/xwtsTPMJDsI> <http://bibfra.me/vocab/marc/systemControlNumber> "(OCoLC)1357003951" .
+<http://sg.ebsco.link/resource/xwtsTPMJDsI> <http://bibfra.me/vocab/marc/systemControlNumber> "(OCoLC)on1357003951" .
+<http://sg.ebsco.link/resource/zmwB2iB84Og> <http://bibfra.me/vocab/lite/date> "2019" .
+<http://sg.ebsco.link/resource/zmwB2iB84Og> <http://bibfra.me/vocab/lite/name> "The House of Books" .
+<http://sg.ebsco.link/resource/zmwB2iB84Og> <http://bibfra.me/vocab/lite/label> "The House of Books, Amsterdam, 2019" .
+<http://sg.ebsco.link/resource/zmwB2iB84Og> <http://bibfra.me/vocab/lite/place> "Amsterdam" .
+<http://sg.ebsco.link/resource/zmwB2iB84Og> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/zmwB2iB84Og> <http://www.w3.org/2000/01/rdf-schema#label> "The House of Books, Amsterdam, 2019" .
+<http://sg.ebsco.link/resource/zmwB2iB84Og> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '260', 'subfields': [{'a': 'Amsterdam'}, {'b': 'The House of Books'}, {'c': '2019'}], 'ind1': ' ', 'ind2': ' '}" .
+<http://sg.ebsco.link/resource/Tmrbu3hMN7A> <http://bibfra.me/vocab/lite/name> "9783319621753" .
+<http://sg.ebsco.link/resource/Tmrbu3hMN7A> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/Tmrbu3hMN7A> <http://www.w3.org/2000/01/rdf-schema#label> "9783319621753" .
+<http://sg.ebsco.link/resource/HcRg9UA4OIM> <http://bibfra.me/vocab/lite/label> "Republic of Moldova, second post-program monitoring discussions -  staff report; staff statement; press release; statement by the Executive Director" .
+<http://sg.ebsco.link/resource/HcRg9UA4OIM> <http://bibfra.me/vocab/marc/index> "no index present" .
+<http://sg.ebsco.link/resource/HcRg9UA4OIM> <http://bibfra.me/vocab/marc/summary> "This paper presents Second Post-Program Monitoring Discussions focusing on Moldova. Governance in the banking system remains poor and the condition of some large banks is fragile. The budget faces a tight financing situation, and-without corrective measures-the deficit is projected to widen significantly in 2015. Russia's new restrictions on imports from Moldova are exacerbating the ongoing slowdown in activity, easing inflationary pressures, and weakening export performance. Discussions mainly focused on policies to address the significant risks in the banking sector, return to a path of fisc" .
+<http://sg.ebsco.link/resource/HcRg9UA4OIM> <http://bibfra.me/vocab/lite/language> "eng" .
+<http://sg.ebsco.link/resource/HcRg9UA4OIM> <http://bibfra.me/vocab/marc/subTitle> "second post-program monitoring discussions -  staff report; staff statement; press release; statement by the Executive Director" .
+<http://sg.ebsco.link/resource/HcRg9UA4OIM> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/HcRg9UA4OIM> <http://bibfra.me/vocab/marc/mainTitle> "Republic of Moldova" .
+<http://sg.ebsco.link/resource/HcRg9UA4OIM> <http://bibfra.me/vocab/marc/literaryForm> "non fiction" .
+<http://sg.ebsco.link/resource/HcRg9UA4OIM> <http://bibfra.me/vocab/marc/illustrations> "illustrations" .
+<http://sg.ebsco.link/resource/HcRg9UA4OIM> <http://www.w3.org/2000/01/rdf-schema#label> "Republic of Moldova, second post-program monitoring discussions -  staff report; staff statement; press release; statement by the Executive Director" .
+<http://sg.ebsco.link/resource/HcRg9UA4OIM> <http://bibfra.me/vocab/marc/seriesStatement> "IMF Country Report, Number 14/346" .
+<http://sg.ebsco.link/resource/HcRg9UA4OIM> <http://bibfra.me/vocab/marc/tableOfContents> "Cover; CONTENTS; CONTEXT; RECENT DEVELOPMENTS AND OUTLOOK; POLICY DISCUSSIONS; A. Financial Sector Policy; BOXES; 1. Key Recommendations of the FSAP; 2. Improving the Transparency of Banks' Beneficial Owners to Support Banking Sector Soundness; B. Fiscal Policy; C. Monetary and Exchange Rate Policy; D. Structural Policies; CAPACITY TO REPAY THE FUND; STAFF APPRAISAL; 3. Risk Assessment Matrix; FIGURE; 1. Selected Economic Indicators Under the Baseline and Active Scenario, 2012-19; TABLES; 1. Selected Economic Indicators, 2009-19; 2. Balance of Payments, 2010-19" .
+<http://sg.ebsco.link/resource/HcRg9UA4OIM> <http://bibfra.me/vocab/marc/tableOfContents> "3A. General Government Budget, 2009-193B. General Government Budget, 2009-19; 4. Accounts of the National Bank of Moldova and Monetary Survey, 2009-14; 5. Financial Soundness Indicators, 2009-14; 6. Indicators of Fund Credit, 2009-20; ANNEXES; I. Trade Restrictions; II. Public Sector Wages; III. Strengthening the Fiscal Framework" .
+<http://sg.ebsco.link/resource/HcRg9UA4OIM> <http://bibfra.me/vocab/marc/natureOfContents> "dictionaries" .
+<http://sg.ebsco.link/resource/RuR86KAg50g> <http://bibfra.me/vocab/lite/name> "IEE" .
+<http://sg.ebsco.link/resource/RuR86KAg50g> <http://bibfra.me/vocab/lite/label> "IEE" .
+<http://sg.ebsco.link/resource/RuR86KAg50g> <http://library.link/vocab/provenance> "http://graph.ebsco.link/source/marc" .
+<http://sg.ebsco.link/resource/RuR86KAg50g> <http://www.w3.org/2000/01/rdf-schema#label> "IEE" .
+<http://sg.ebsco.link/resource/RuR86KAg50g> <http://gopac.ebsco.link/vocab/gopac/fragment> "{'field': '260', 'subfields': [{'b': 'IEE'}], 'ind1': ' ', 'ind2': ' '}" .
+<http://sg.ebsco.link/resource/QGfkUfDuFZQ> <http://bibfra.me/vocab/lite/name> "Informed consent (Medical law)" .
+<http://sg.ebsco.link/resource/QGfkUfDuFZQ> <http://bibfra.me/vocab/lite/label> "Informed consent (Medical law) -- Germany" .
